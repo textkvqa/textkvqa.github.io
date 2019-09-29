@@ -1,15 +1,16 @@
 <!DOCTYPE html>
-<html lang="en"><head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta charset="utf-8">
+<!-- saved from url=(0044)http://malllabiisc.github.io/resources/kvqa/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="OCR-VQA">
-    <meta name="author" content="">
+    <meta name="description" content="Text to Image">
+    <meta name="author" content="MALL lab">
 
     <title>text-KVQA</title>
 
-    <link href="kvqa_ProjectFiles/bootstrap.css" rel="stylesheet">
-    <link href="kvqa_ProjectFiles/style.css" rel="stylesheet">
+    <link href="./index_files/bootstrap.css" rel="stylesheet">
+    <link href="./index_files/style.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -22,11 +23,169 @@
 
     <div class="container">
       <div class="header">
-        <h1 class="text"><center>From Strings to Things: Knowledge-enabled VQA Model that can Read and Reason</center></h1>
-           <h4 class="text"><center> Ajeet Kumar Singh, Anand Mishra, Shashank Shekhar, Anirban Chakraborty</center></h4>
-          <h4 class="text"><center>ICCV2019</center></h4>
-          <h4 class="text"><center>[<a href="">PDF</a>]</center></h4>
+        <h3 class="text"><center>From Strings to Things: Knowledge-enabled VQA Model that can Read and Reason</center></h3>
+<h4 class="text"><center>Ajeet Kumar Singh, Anand Mishra, Shashank Shekhar, Anirban Chakraborty </center></h4>
+<h4 class="text"><center>ICCV 2019</center></h4>
+
+<h4 class="text"><center> [<a href="">Paper</a>][<a href="">Supplementry Material</a>] </center></h4>
        </div>
 
- Dataset: Available Soon!! 
+ <div class="container">
+      <div class="header">
+      <br>
+<center>
+<figure class="figure"> 
+    <img class="figure-img" width="100%" src= "figures/Figure_1_alt.png" > 
+      
+    <!-- <figcaption class="figure-caption">
+    	Proposed knowledge-enabled VQA model that can read and reason
+    </figcaption>  -->
+
+ </figure>
+&nbsp;
+&nbsp;
+&nbsp;
+<!-- </center>
+Q: Who is to the left of Barack Obama? <br>
+A: <font color="green">Richard Cordray</font><br>
+Q: Do all the people in the image have a common occupation? <br>
+A: <font color="green">Yes</font><br>
+Q: Who among the people in the image is called by the nickname Barry?<br>
+A: <font color="green">Person in the center</font> -->
+</div>
+
+
+
+      <div class="row">
+        <h3>Motivation</h3>
+        <p style="text-align: justify;">                   
+Text present in images are not merely strings, they provide useful cues about the image. Despite their utility in
+better image understanding, scene texts are not used in traditional visual question answering (VQA) models. In this
+work, we present a VQA model which can read scene texts
+and perform reasoning on a knowledge graph to arrive at
+an accurate answer. Our proposed model has three mutually interacting modules: (i) proposal module to get word
+and visual content proposals from the image, (ii) fusion
+module to fuse these proposals, question and knowledge
+base to mine relevant facts, and represent these facts as
+multi-relational graph, (iii) reasoning module to perform a
+novel gated graph neural network based reasoning on this
+graph.</p><p>
+The performance of our knowledge-enabled VQA model
+is evaluated on our newly introduced dataset, viz. textKVQA. To the best of our knowledge, this is the first dataset
+which identifies the need for bridging text recognition with
+knowledge graph based reasoning. Through extensive experiments, we show that our proposed method outperforms
+traditional VQA as well as question-answering over knowledge base-based methods on text-KVQA
+        </p>
+      </div>
+      <div class="row">
+        <h3>Contributions</h3>
+     <ul> 
+      <li> Drawing attention to reading text in images for VQA tasks.</li>
+     <li> Introducing a large-scale dataset, namely text-KVQA. </li>
+     <li> A VQA model which seamlessly integrates visual content, recognized words, questions and knowledge facts.</li>
+     <li> Novel reasoning on mutli-relational graph using a GGNN formulation </li>
+     </ul>
+               
+     </div>
+
+
+<div class="row">
+    <h3 id="datasetE">Dataset</h3>
+    <p>&nbsp;</p>
+    <p>
+    	<figure class="figure"> 
+		    <img class="figure-img" width="100%" src= "figures/samples_data.png" > 
+		      
+		    <figcaption class="figure-caption">
+		    	Sample images, question-ground truth answer pairs and a relevant supporting fact from our newly introduced text-KVQA dataset.
+Please note that supporting fact is not explicitly provided during training and inference of our method. Rather it is mined from the largescale knowledge bases. Please refer to supplementary material for more examples.
+		    </figcaption> 
+
+ 		</figure>
+    </p>
+    <p>
+    	<figure class="figure"> 
+		    <img class="figure-img" width="100%" src= "figures/dataset.png" > 
+		      
+		    <figcaption class="figure-caption">
+		    	text-KVQA as compared to related datasets which identifies the need for reading text for VQA task. Our dataset is not only
+significantly larger than these datasets, but also only dataset which identifies the need for background knowledge in answering questions.
+		    </figcaption> 
+
+ 		</figure>
+    </p>
+</div>
+
+<div class="row">
+  <h3 id="datasetD">Dataset Downloads [Available soon]</h3>
+  <div class="row">
+    <ol type="A">
+      <li>Dataset images and QA Pairs</li>
+      <ol type="a">
+        <li><a href="#">text-KVQA <i>(scene)</i></a></li>
+        <li><a href="#">text-KVQA <i>(book)</i></a></li>
+        <li><a href="#">text-KVQA <i>(movie)</i></a></li>
+      </ol>
+      <li>Knowledge Bases</li>
+      <ol type="a">
+        <li><a href="#">KB-business</i></a></li>
+        <li><a href="#">KB-book</i></a></li>
+        <li><a href="#">KB-movie</i></a></li>
+      </ol>
+      <a href="#">README</a></li>
+    </ol>
+  </div>
+</div>
+
+<hr>
+
+
+<h3><strong><span style="font-size: 12pt;">Bibtex</span></strong></h3>
+<p>If you use this dataset, please cite:</p>
+<pre><tt>@InProceedings{singhMSC19,
+  author    = "Singh, Ajeet Kumar and Mishra, Anand and Shekhar, Shashank and Chakraborty, Anirban",
+  title     = "From Strings to Things: Knowledge-enabled VQA Model that can Read and Reason",
+  booktitle = "ICCV",
+  year      = "2019",
+}</tt></pre>
+<hr>
+
+        <h3>Publications</h3>
+       <br>
+Ajeet Kumar Singh, Anand Mishra, Shashank Shekhar, Anirban Chakraborty, <b>From Strings to Things: Knowledge-enabled VQA Model that can Read and Reason</b>, ICCV 2019
+[<a href="#"><u>pdf</u></a>][<a href="#"><u>Slides</u></a>]
+
+<br>
+<br>
+
+
+            
+ <div class="row">
+       <h3>People</h3>
+       	<a href="https://ajeetksingh.github.io/"><u>Ajeet Kumar Singh</u></a></br>
+        <a href="https://anandmishra22.github.io/"><u>Anand Mishra</u></a> <br>
+        <a href="#"><u>Shashank Shekhar</u></a><br>
+        <a href="#"> <u>Anirban Chakraborty</u></a> <br>
+        
+      </div>
+
+
+      <!-- <div class="row">
+       <h3>Acknowledgements</h3>
+        <p> Authors would like to thank MHRD, Govt. of India and Intel Corporation for partly supporting this work. 
+        </p>
+      </div> -->
+      
+      
+
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+  
+
+
+</div></div>
 </div></div></body></html>
