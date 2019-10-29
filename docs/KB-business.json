@@ -1,0 +1,4131 @@
+{
+    "Q1043486": {
+        "has title": "Carl's Jr.",
+        "is a type of": "Restaurant",
+        "has headquarters in": "Carpinteria",
+        "has ceo": "Carl Karcher",
+        "established on date": "1941-01-01",
+        "belongs to industry": "fast food",
+        "has parent company": "CKE Restaurants"
+    },
+    "Q1046951": {
+        "has title": "Target Corporation",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Minneapolis",
+        "has ceo": "George Dayton",
+        "established on date": "1902-06-24",
+        "belongs to industry": "retail"
+    },
+    "Q1049970": {
+        "has title": "Castrol",
+        "is a type of": "Auto parts showroom",
+        "produces": "['petroleum']",
+        "origin country": "United Kingdom",
+        "has headquarters in": "Liverpool",
+        "has ceo": "Charles Wakefield, 1st Viscount Wakefield",
+        "established on date": "1899-01-01",
+        "belongs to industry": "petroleum industry",
+        "has parent company": "BP"
+    },
+    "Q1060537": {
+        "has title": "Forever 21",
+        "is a type of": "Apparel store",
+        "has headquarters in": "Los Angeles",
+        "has ceo": "Do Won Chang",
+        "established on date": "1984-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q1065819": {
+        "has title": "Mister Donut",
+        "is a type of": "Restaurant",
+        "origin country": "Japan",
+        "has headquarters in": "Tokyo",
+        "has ceo": "Harry Winokur",
+        "established on date": "1956-01-01"
+    },
+    "Q1068628": {
+        "has title": "Calvin Klein Inc",
+        "is a type of": "Apparel store",
+        "produces": "['clothing', 'perfume']",
+        "origin country": "United States of America",
+        "has headquarters in": "New York City",
+        "has ceo": "Calvin Klein",
+        "established on date": "1968-01-01",
+        "has parent company": "PVH"
+    },
+    "Q1068485": {
+        "has title": "China Unicom",
+        "is a type of": "Telecom store",
+        "origin country": "People's Republic of China",
+        "has headquarters in": "Beijing",
+        "established on date": "1994-01-01",
+        "belongs to industry": "telecommunications industry",
+        "has parent company": "State-owned Assets Supervision and Administration Commission of the State Council"
+    },
+    "Q1072948": {
+        "has title": "Chili's",
+        "is a type of": "Restaurant",
+        "has headquarters in": "Dallas",
+        "established on date": "1975-03-13",
+        "belongs to industry": "restaurant",
+        "has parent company": "Brinker International"
+    },
+    "Q10850949": {
+        "has title": "Hotto Motto",
+        "is a type of": "Restaurant",
+        "origin country": "Japan"
+    },
+    "Q10873167": {
+        "has title": "China Everbright Bank",
+        "is a type of": "Bank",
+        "origin country": "People's Republic of China",
+        "has headquarters in": "Beijing",
+        "established on date": "1992-08-01"
+    },
+    "Q10860683": {
+        "has title": "T.J. Maxx",
+        "is a type of": "Retail store",
+        "has headquarters in": "Framingham",
+        "established on date": "1976-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "TJX Companies"
+    },
+    "Q1096390": {
+        "has title": "Yamada Denki",
+        "is a type of": "Electronics store",
+        "origin country": "Japan",
+        "has headquarters in": "Takasaki",
+        "has ceo": "Noboru Yamada",
+        "established on date": "1978-01-01"
+    },
+    "Q1092539": {
+        "has title": "Cinnabon",
+        "is a type of": "Restaurant",
+        "produces": "['fast food']",
+        "has headquarters in": "Atlanta",
+        "established on date": "1985-01-01",
+        "belongs to industry": "mechanized bakery",
+        "has parent company": "Focus Brands"
+    },
+    "Q11064596": {
+        "has title": "Hiroshima Bank",
+        "is a type of": "Bank",
+        "origin country": "Japan",
+        "has headquarters in": "Hiroshima Prefecture",
+        "established on date": "1945-05-01"
+    },
+    "Q1112588": {
+        "has title": "Columbia Sportswear Company",
+        "is a type of": "Apparel store",
+        "produces": "['clothing', 'sportswear', 'outerwear']",
+        "origin country": "United States of America",
+        "has headquarters in": "Cedar Mill",
+        "established on date": "1938-01-01"
+    },
+    "Q1114148": {
+        "has title": "Comerica",
+        "is a type of": "Bank",
+        "origin country": "United States of America",
+        "has headquarters in": "Dallas",
+        "has ceo": "Elon Farnsworth",
+        "established on date": "1849-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q1115064": {
+        "has title": "Denizbank",
+        "is a type of": "Bank",
+        "origin country": "Turkey",
+        "has headquarters in": "Istanbul",
+        "established on date": "1938-01-01",
+        "belongs to industry": "financial services",
+        "has parent company": "Sberbank of Russia"
+    },
+    "Q1126518": {
+        "has title": "Conoco",
+        "is a type of": "Petrol station",
+        "origin country": "United States of America",
+        "has headquarters in": "Houston",
+        "established on date": "1875-01-01"
+    },
+    "Q1123823": {
+        "has title": "Nordea",
+        "is a type of": "Bank",
+        "origin country": "Finland",
+        "has headquarters in": "Helsinki",
+        "established on date": "2000-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q11283586": {
+        "has title": "Athleta",
+        "is a type of": "Apparel store",
+        "origin country": "Brazil",
+        "has headquarters in": "Tokyo"
+    },
+    "Q1131810": {
+        "has title": "Five Guys",
+        "is a type of": "Restaurant",
+        "produces": "['hamburger']",
+        "origin country": "United States of America",
+        "has headquarters in": "Lorton",
+        "established on date": "1986-01-01",
+        "belongs to industry": "fast food"
+    },
+    "Q11313470": {
+        "has title": "Suruga Bank",
+        "is a type of": "Bank",
+        "origin country": "Japan",
+        "has headquarters in": "Shizuoka Prefecture",
+        "established on date": "1895-10-19"
+    },
+    "Q1132272": {
+        "has title": "PVH",
+        "is a type of": "Apparel store",
+        "has headquarters in": "New York City",
+        "established on date": "1881-01-01"
+    },
+    "Q1135366": {
+        "has title": "Vans",
+        "is a type of": "Apparel store",
+        "has headquarters in": "Costa Mesa",
+        "has ceo": "Paul Van Doren",
+        "established on date": "1966-03-16",
+        "belongs to industry": "clothing industry",
+        "has parent company": "VF Corporation"
+    },
+    "Q1141226": {
+        "has title": "Dairy Queen",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Edina",
+        "established on date": "1940-01-01",
+        "belongs to industry": "System catering",
+        "has parent company": "Berkshire Hathaway"
+    },
+    "Q1143333": {
+        "has title": "H\u00e4agen-Dazs",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Oakland",
+        "has ceo": "Reuben and Rose Mattus",
+        "established on date": "1961-01-01",
+        "belongs to industry": "food industry",
+        "has parent company": "General Mills"
+    },
+    "Q1145493": {
+        "has title": "Swedbank",
+        "is a type of": "Bank",
+        "origin country": "Sweden",
+        "has headquarters in": "Stockholm",
+        "established on date": "1997-01-01",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q1145766": {
+        "has title": "Future Shop",
+        "is a type of": "Electronics store",
+        "origin country": "Canada",
+        "has headquarters in": "Burnaby",
+        "has ceo": "Hassan Khosrowshahi",
+        "established on date": "1982-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "Best Buy"
+    },
+    "Q1148521": {
+        "has title": "Vak\u0131fBank",
+        "is a type of": "Bank",
+        "origin country": "Turkey",
+        "has headquarters in": "Istanbul",
+        "established on date": "1954-01-01"
+    },
+    "Q1152847": {
+        "has title": "Lloyds Bank",
+        "is a type of": "Bank",
+        "has headquarters in": "London",
+        "established on date": "1995-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q114913": {
+        "has title": "Dickies",
+        "is a type of": "Apparel store",
+        "produces": "['backpack', 'clothing', 'footwear']",
+        "has headquarters in": "Fort Worth",
+        "established on date": "1918-01-01",
+        "belongs to industry": "clothing industry"
+    },
+    "Q11609920": {
+        "has title": "Gunma Bank",
+        "is a type of": "Bank",
+        "origin country": "Japan",
+        "has headquarters in": "Gunma Prefecture",
+        "established on date": "1932-09-14"
+    },
+    "Q1183818": {
+        "has title": "Del Taco",
+        "is a type of": "Restaurant",
+        "has headquarters in": "Lake Forest",
+        "established on date": "1965-01-01",
+        "belongs to industry": "System catering"
+    },
+    "Q1185675": {
+        "has title": "IHOP",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Glendale",
+        "established on date": "1958-01-01",
+        "belongs to industry": "gastronomy"
+    },
+    "Q1189695": {
+        "has title": "Denny's",
+        "is a type of": "Restaurant",
+        "has headquarters in": "Spartanburg",
+        "has ceo": "Harold Butler",
+        "established on date": "1953-01-01",
+        "belongs to industry": "gastronomy"
+    },
+    "Q1192805": {
+        "has title": "Krispy Kreme",
+        "is a type of": "Restaurant",
+        "has headquarters in": "Winston-Salem",
+        "has ceo": "Vernon Rudolph",
+        "established on date": "1937-07-13",
+        "belongs to industry": "gastronomy",
+        "has parent company": "JAB Holding Company"
+    },
+    "Q1195490": {
+        "has title": "RadioShack",
+        "is a type of": "Electronics store",
+        "origin country": "United States of America",
+        "has headquarters in": "Fort Worth",
+        "established on date": "1921-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q1194832": {
+        "has title": "Toronto\u2013Dominion Bank",
+        "is a type of": "Bank",
+        "origin country": "Canada",
+        "has headquarters in": "Toronto-Dominion Centre",
+        "established on date": "1855-01-01"
+    },
+    "Q122141": {
+        "has title": "Vodafone",
+        "is a type of": "Telecom store",
+        "produces": "['sim']",
+        "origin country": "United Kingdom",
+        "has headquarters in": "London",
+        "has ceo": "Gerry Whent",
+        "established on date": "1984-01-01",
+        "belongs to industry": "cellular network"
+    },
+    "Q1208279": {
+        "has title": "Petro-Canada",
+        "is a type of": "Petrol station",
+        "origin country": "Canada",
+        "has headquarters in": "Calgary",
+        "established on date": "1975-01-01",
+        "belongs to industry": "petroleum industry",
+        "has parent company": "Suncor Energy"
+    },
+    "Q1218180": {
+        "has title": "Nikon",
+        "is a type of": "Electronics store",
+        "produces": "['software']",
+        "origin country": "Japan",
+        "has headquarters in": "Minato-ku",
+        "established on date": "1917-01-01",
+        "belongs to industry": "camera",
+        "has parent company": "Mitsubishi"
+    },
+    "Q127428": {
+        "has title": "Belk",
+        "is a type of": "Retail store",
+        "has headquarters in": "Charlotte",
+        "established on date": "1888-01-01"
+    },
+    "Q1232514": {
+        "has title": "Resona Holdings",
+        "is a type of": "Bank",
+        "origin country": "Japan",
+        "has headquarters in": "K\u014dt\u014d-ku",
+        "established on date": "2001-01-01"
+    },
+    "Q125054": {
+        "has title": "Aldi",
+        "is a type of": "Retail store",
+        "origin country": "Netherlands",
+        "has headquarters in": "Essen",
+        "has ceo": "Karl Albrecht",
+        "established on date": "1961-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q1330910": {
+        "has title": "Popeyes Louisiana Kitchen",
+        "is a type of": "Restaurant",
+        "produces": "['fried chicken']",
+        "origin country": "United States of America",
+        "has headquarters in": "Atlanta",
+        "has ceo": "Al Copeland",
+        "established on date": "1972-06-13",
+        "belongs to industry": "fast food"
+    },
+    "Q127962": {
+        "has title": "Levi Strauss & Co.",
+        "is a type of": "Apparel store",
+        "produces": "['clothing', 'jeans']",
+        "origin country": "United States of America",
+        "has headquarters in": "San Francisco",
+        "has ceo": "Levi Strauss",
+        "established on date": "1853-01-01",
+        "belongs to industry": "clothing industry"
+    },
+    "Q1283291": {
+        "has title": "Valero Energy Corporation",
+        "is a type of": "Petrol station",
+        "origin country": "United States of America",
+        "has headquarters in": "San Antonio",
+        "established on date": "1980-01-01",
+        "belongs to industry": "petroleum industry"
+    },
+    "Q1289348": {
+        "has title": "Indian Oil Corporation",
+        "is a type of": "Petrol station",
+        "origin country": "India",
+        "has headquarters in": "New Delhi",
+        "established on date": "1964-01-01",
+        "belongs to industry": "petroleum industry"
+    },
+    "Q1358690": {
+        "has title": "Panda Express",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Rosemead",
+        "has ceo": "Andrew Cherng",
+        "established on date": "1973-01-01"
+    },
+    "Q1340361": {
+        "has title": "State Bank of India",
+        "is a type of": "Bank",
+        "has headquarters in": "Mumbai",
+        "established on date": "1806-06-02",
+        "belongs to industry": "banking"
+    },
+    "Q1343118": {
+        "has title": "Intesa Sanpaolo",
+        "is a type of": "Bank",
+        "origin country": "Italy",
+        "has headquarters in": "Turin",
+        "established on date": "2007-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q136311": {
+        "has title": "Sunglass Hut International",
+        "is a type of": "Accessory store",
+        "established on date": "1971-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q136503": {
+        "has title": "Mango",
+        "is a type of": "Apparel store",
+        "produces": "['clothing', 'perfume', 'footwear', 'watch', 'costume accessory', 'Baby Clothes', 'eyewear']",
+        "origin country": "Spain",
+        "has headquarters in": "Palau-solit\u00e0 i Plegamans",
+        "has ceo": "Isak Andic",
+        "established on date": "1984-01-01",
+        "belongs to industry": "clothing industry"
+    },
+    "Q1364018": {
+        "has title": "Maybank",
+        "is a type of": "Bank",
+        "origin country": "Malaysia",
+        "has headquarters in": "Kuala Lumpur",
+        "has ceo": "Khoo Teck Puat",
+        "established on date": "1960-05-31",
+        "belongs to industry": "financial services"
+    },
+    "Q136672": {
+        "has title": "Jyske Bank",
+        "is a type of": "Bank",
+        "origin country": "Denmark",
+        "has headquarters in": "Silkeborg",
+        "established on date": "1967-01-01"
+    },
+    "Q1380537": {
+        "has title": "G\u00e9ant Casino",
+        "is a type of": "Retail store",
+        "origin country": "France",
+        "has headquarters in": "Saint-\u00c9tienne",
+        "established on date": "1970-01-01"
+    },
+    "Q1411810": {
+        "has title": "Fifth Third Bank",
+        "is a type of": "Bank",
+        "origin country": "United States of America",
+        "has headquarters in": "Cincinnati",
+        "established on date": "1858-06-17",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q1393809": {
+        "has title": "Little Caesars",
+        "is a type of": "Restaurant",
+        "has headquarters in": "Detroit",
+        "has ceo": "Mike Ilitch",
+        "established on date": "1959-01-01",
+        "belongs to industry": "gastronomy"
+    },
+    "Q1425519": {
+        "has title": "Speedo International Limited",
+        "is a type of": "Apparel store",
+        "origin country": "United Kingdom",
+        "has headquarters in": "Nottingham",
+        "has ceo": "Alexander MacRae",
+        "established on date": "1928-01-01",
+        "has parent company": "Pentland Group"
+    },
+    "Q1421630": {
+        "has title": "Handelsbanken",
+        "is a type of": "Bank",
+        "produces": "['bank', 'insurance']",
+        "origin country": "Norway",
+        "has headquarters in": "Stockholm",
+        "established on date": "1871-01-01",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q142691": {
+        "has title": "Montblanc",
+        "is a type of": "Accessory store",
+        "produces": "['stationery']",
+        "origin country": "Germany",
+        "has headquarters in": "Hamburg",
+        "established on date": "1906-01-01",
+        "belongs to industry": "light industry",
+        "has parent company": "Richemont"
+    },
+    "Q1445358": {
+        "has title": "Wrangler",
+        "is a type of": "Apparel store",
+        "produces": "['jeans', 'workwear', 'eyewear']",
+        "origin country": "United States of America",
+        "has headquarters in": "Greensboro",
+        "established on date": "1947-01-01",
+        "has parent company": "VF Corporation"
+    },
+    "Q1430985": {
+        "has title": "National Australia Bank",
+        "is a type of": "Bank",
+        "origin country": "Australia",
+        "has headquarters in": "Melbourne",
+        "established on date": "1893-06-23",
+        "belongs to industry": "financial services"
+    },
+    "Q1476162": {
+        "has title": "UBI Banca",
+        "is a type of": "Bank",
+        "has headquarters in": "Bergamo",
+        "established on date": "2007-04-01",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q145168": {
+        "has title": "Dollar General",
+        "is a type of": "Retail store",
+        "has headquarters in": "Goodlettsville",
+        "established on date": "1939-01-01",
+        "belongs to industry": "discount store"
+    },
+    "Q147662": {
+        "has title": "Zara",
+        "is a type of": "Apparel store",
+        "origin country": "Spain",
+        "has headquarters in": "A Coru\u00f1a",
+        "has ceo": "Amancio Ortega",
+        "established on date": "1975-01-01",
+        "belongs to industry": "textile industry",
+        "has parent company": "Inditex"
+    },
+    "Q14799": {
+        "has title": "Lenovo",
+        "is a type of": "Electronics store",
+        "produces": "['printer', 'television', 'laptop', 'computer hardware', 'software', 'smartphone', 'server', 'desktop computer', 'computer data storage', 'image scanner', 'tablet computer', 'netbook', 'peripheral equipment']",
+        "origin country": "United States of America",
+        "has headquarters in": "Beijing",
+        "has ceo": "Liu Chuanzhi",
+        "established on date": "1984-01-01",
+        "belongs to industry": "electronics"
+    },
+    "Q1492739": {
+        "has title": "Galp Energia",
+        "is a type of": "Petrol station",
+        "origin country": "Portugal",
+        "has headquarters in": "Lisbon",
+        "established on date": "1999-01-01",
+        "belongs to industry": "petroleum industry"
+    },
+    "Q15109925": {
+        "has title": "Tractor Supply Company",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Brentwood",
+        "established on date": "1938-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q151107": {
+        "has title": "Michelin",
+        "is a type of": "Tyre store",
+        "origin country": "France",
+        "has headquarters in": "Clermont-Ferrand",
+        "has ceo": "\u00c9douard Michelin",
+        "established on date": "1889-01-01",
+        "belongs to industry": "automotive industry"
+    },
+    "Q152057": {
+        "has title": "BP",
+        "is a type of": "Petrol station",
+        "origin country": "United Kingdom",
+        "has headquarters in": "London",
+        "has ceo": "William Knox D'Arcy",
+        "established on date": "1908-01-01",
+        "belongs to industry": "petroleum industry"
+    },
+    "Q151954": {
+        "has title": "Lidl",
+        "is a type of": "Retail store",
+        "origin country": "Netherlands",
+        "has headquarters in": "Neckarsulm",
+        "has ceo": "Dieter Schwarz",
+        "established on date": "1973-01-01",
+        "belongs to industry": "Food retail sector",
+        "has parent company": "Schwarz Gruppe"
+    },
+    "Q152096": {
+        "has title": "Sainsbury's",
+        "is a type of": "Retail store",
+        "origin country": "United Kingdom",
+        "has headquarters in": "London",
+        "has ceo": "John James Sainsbury",
+        "established on date": "1869-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "J Sainsbury"
+    },
+    "Q152784": {
+        "has title": "The North Face, Inc.",
+        "is a type of": "Apparel store",
+        "produces": "['backpack', 'clothing', 'tent', 'Sleeping bag', 'sports equipment', 'outerwear']",
+        "origin country": "United States of America",
+        "has headquarters in": "San Francisco",
+        "has ceo": "Douglas Tompkins",
+        "established on date": "1968-01-01",
+        "has parent company": "VF Corporation"
+    },
+    "Q153417": {
+        "has title": "Kroger",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Cincinnati",
+        "has ceo": "Bernard Kroger",
+        "established on date": "1883-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q1535221": {
+        "has title": "Long John Silver's",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Louisville",
+        "established on date": "1969-01-01",
+        "belongs to industry": "fast food",
+        "has parent company": "Yum! Brands"
+    },
+    "Q1539185": {
+        "has title": "The Timberland Company",
+        "is a type of": "Accessory store",
+        "produces": "['clothing', 'footwear']",
+        "origin country": "United States of America",
+        "has headquarters in": "Stratham",
+        "has ceo": "Nathan Swartz",
+        "established on date": "1952-01-01",
+        "has parent company": "VF Corporation"
+    },
+    "Q1538507": {
+        "has title": "Jack in the Box",
+        "is a type of": "Restaurant",
+        "produces": "['hamburger']",
+        "origin country": "United States of America",
+        "has headquarters in": "San Diego",
+        "has ceo": "Robert Oscar Peterson",
+        "established on date": "1951-01-01",
+        "belongs to industry": "gastronomy"
+    },
+    "Q154950": {
+        "has title": "Royal Dutch Shell",
+        "is a type of": "Petrol station",
+        "produces": "['petroleum']",
+        "origin country": "Netherlands",
+        "has headquarters in": "London",
+        "has ceo": "Marcus Samuel, 1st Viscount Bearsted",
+        "established on date": "1907-01-01",
+        "belongs to industry": "petroleum industry"
+    },
+    "Q154037": {
+        "has title": "Total S.A.",
+        "is a type of": "Petrol station",
+        "origin country": "France",
+        "has headquarters in": "Courbevoie",
+        "has ceo": "Ernest Mercier",
+        "established on date": "1924-03-28",
+        "belongs to industry": "energy"
+    },
+    "Q157064": {
+        "has title": "Puma SE",
+        "is a type of": "Apparel store",
+        "produces": "['footwear', 'sportswear', 'sports equipment', 'costume accessory']",
+        "origin country": "Germany",
+        "has headquarters in": "Herzogenaurach",
+        "has ceo": "Rudolf Dassler",
+        "established on date": "1948-03-12"
+    },
+    "Q15725576": {
+        "has title": "DATS petrol stations",
+        "is a type of": "Petrol station",
+        "origin country": "Belgium"
+    },
+    "Q1575057": {
+        "has title": "Pingo Doce",
+        "is a type of": "Retail store",
+        "has headquarters in": "Lisbon",
+        "established on date": "1980-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q15903261": {
+        "has title": "Marshalls",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Framingham",
+        "has ceo": "Alfred Marshall",
+        "established on date": "1956-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "TJX Companies"
+    },
+    "Q157617": {
+        "has title": "Commerzbank",
+        "is a type of": "Bank",
+        "produces": "['giro', 'Money market account', 'Overdraft', 'Time deposit', 'cash management', 'corporate financing', 'installment loan', 'Securities account', 'foreign trade financing']",
+        "origin country": "Germany",
+        "has headquarters in": "Commerzbank Tower",
+        "established on date": "1870-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q1576610": {
+        "has title": "Standard Bank",
+        "is a type of": "Bank",
+        "origin country": "South Africa",
+        "has headquarters in": "London",
+        "has ceo": "John Paterson",
+        "established on date": "1862-01-01",
+        "belongs to industry": "bank"
+    },
+    "Q158285": {
+        "has title": "Diesel",
+        "is a type of": "Apparel store",
+        "origin country": "Italy",
+        "has headquarters in": "Molvena",
+        "has ceo": "Renzo Rosso",
+        "established on date": "1978-01-01",
+        "belongs to industry": "clothing industry"
+    },
+    "Q1585088": {
+        "has title": "Hardee's",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "St. Louis",
+        "has ceo": "Wilbur Hardee",
+        "established on date": "1960-09-09",
+        "belongs to industry": "gastronomy",
+        "has parent company": "CKE Restaurants"
+    },
+    "Q15909765": {
+        "has title": "Kungfu",
+        "is a type of": "Restaurant",
+        "has headquarters in": "Tianhe District",
+        "established on date": "1994-01-01"
+    },
+    "Q1591889": {
+        "has title": "Walgreens",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Deerfield",
+        "has ceo": "Charles Rudolph Walgreen, Sr.",
+        "established on date": "1901-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "Walgreens Boots Alliance"
+    },
+    "Q1615684": {
+        "has title": "Hess Corporation",
+        "is a type of": "Petrol station",
+        "origin country": "United States of America",
+        "has headquarters in": "New York City",
+        "has ceo": "Leon Hess",
+        "established on date": "1919-01-01"
+    },
+    "Q160126": {
+        "has title": "The Royal Bank of Scotland",
+        "is a type of": "Bank",
+        "origin country": "United Kingdom",
+        "has headquarters in": "Edinburgh",
+        "established on date": "1727-01-01",
+        "belongs to industry": "financial services",
+        "has parent company": "The Royal Bank of Scotland Group"
+    },
+    "Q161906": {
+        "has title": "Oakley, Inc.",
+        "is a type of": "Accessory store",
+        "produces": "['clothing', 'eyeglasses', 'sunglasses']",
+        "origin country": "United States of America",
+        "has headquarters in": "Foothill Ranch",
+        "has ceo": "James Jannard",
+        "established on date": "1975-01-01",
+        "has parent company": "Luxottica"
+    },
+    "Q163241": {
+        "has title": "Continental AG",
+        "is a type of": "Tyre store",
+        "origin country": "Germany",
+        "has headquarters in": "Hanover",
+        "established on date": "1871-01-01",
+        "belongs to industry": "automotive industry"
+    },
+    "Q1619375": {
+        "has title": "Hindustan Petroleum",
+        "is a type of": "Petrol station",
+        "has headquarters in": "Mumbai",
+        "established on date": "1974-01-01"
+    },
+    "Q162345": {
+        "has title": "LG Electronics",
+        "is a type of": "Electronics store",
+        "produces": "['television', 'software', 'mobile phone', 'smartphone', 'tablet computer', 'home appliance', 'smartwatch']",
+        "origin country": "South Korea",
+        "has headquarters in": "Seoul",
+        "established on date": "1958-10-01",
+        "belongs to industry": "home appliance",
+        "has parent company": "LG Corporation"
+    },
+    "Q163810": {
+        "has title": "Volvo",
+        "is a type of": "Auto showroom",
+        "origin country": "Sweden",
+        "has headquarters in": "Gothenburg",
+        "has ceo": "SKF",
+        "established on date": "1927-01-01",
+        "belongs to industry": "automotive industry"
+    },
+    "Q1636974": {
+        "has title": "Danske Bank",
+        "is a type of": "Bank",
+        "origin country": "Denmark",
+        "has headquarters in": "Copenhagen",
+        "established on date": "1871-01-01"
+    },
+    "Q164740": {
+        "has title": "Fujifilm",
+        "is a type of": "Electronics store",
+        "produces": "['software']",
+        "origin country": "Japan",
+        "has headquarters in": "Minato-ku",
+        "established on date": "1934-01-20",
+        "belongs to industry": "photography",
+        "has parent company": "Fujifilm Holdings"
+    },
+    "Q1642179": {
+        "has title": "Allied Irish Banks",
+        "is a type of": "Bank",
+        "has headquarters in": "Dublin",
+        "established on date": "1966-01-01",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q16489453": {
+        "has title": "Banco Popular",
+        "is a type of": "Bank",
+        "origin country": "Colombia",
+        "established on date": "1950-06-30"
+    },
+    "Q165684": {
+        "has title": "Rogers Communications",
+        "is a type of": "Telecom store",
+        "origin country": "Canada",
+        "has headquarters in": "Toronto",
+        "has ceo": "Edward S. Rogers, Sr.",
+        "established on date": "1960-01-01",
+        "belongs to industry": "telecommunications industry"
+    },
+    "Q1653258": {
+        "has title": "ICICI Bank",
+        "is a type of": "Bank",
+        "origin country": "India",
+        "has headquarters in": "Mumbai",
+        "established on date": "1994-01-05"
+    },
+    "Q1656230": {
+        "has title": "Phillips 66",
+        "is a type of": "Petrol station",
+        "origin country": "United States of America",
+        "has headquarters in": "Westchase",
+        "has ceo": "Frank Phillips",
+        "established on date": "1917-01-01",
+        "belongs to industry": "petroleum industry"
+    },
+    "Q165858": {
+        "has title": "TELUS",
+        "is a type of": "Telecom store",
+        "origin country": "Canada",
+        "has headquarters in": "Vancouver",
+        "established on date": "1990-01-01",
+        "belongs to industry": "telecommunications industry"
+    },
+    "Q168238": {
+        "has title": "OMV",
+        "is a type of": "Petrol station",
+        "origin country": "Austria",
+        "has headquarters in": "Vienna",
+        "established on date": "1956-01-01",
+        "belongs to industry": "petroleum industry"
+    },
+    "Q16844433": {
+        "has title": "HomeSense",
+        "is a type of": "Retail store",
+        "has headquarters in": "Canada",
+        "established on date": "2001-01-01"
+    },
+    "Q1689380": {
+        "has title": "Jimmy John's",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Champaign",
+        "has ceo": "James P. Liautaud",
+        "established on date": "1983-01-01",
+        "belongs to industry": "food industry"
+    },
+    "Q17005286": {
+        "has title": "Old Chang Kee",
+        "is a type of": "Restaurant",
+        "has headquarters in": "Singapore",
+        "established on date": "1956-01-01",
+        "belongs to industry": "foodservice"
+    },
+    "Q1701206": {
+        "has title": "Waffle House",
+        "is a type of": "Restaurant",
+        "has headquarters in": "Gwinnett County",
+        "established on date": "1955-01-01",
+        "belongs to industry": "gastronomy"
+    },
+    "Q17107560": {
+        "has title": "Great Canadian Dollar Store",
+        "is a type of": "Apparel store",
+        "origin country": "Canada",
+        "has headquarters in": "Victoria",
+        "established on date": "1993-01-01"
+    },
+    "Q17018996": {
+        "has title": "First National Bank",
+        "is a type of": "Bank",
+        "origin country": "United States of America",
+        "established on date": "1863-01-01"
+    },
+    "Q174310": {
+        "has title": "Nordstrom",
+        "is a type of": "Retail store",
+        "has headquarters in": "Seattle",
+        "has ceo": "John W. Nordstrom",
+        "established on date": "1901-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q17112054": {
+        "has title": "Silicon Valley Bank",
+        "is a type of": "Bank",
+        "origin country": "United States of America",
+        "has headquarters in": "Santa Clara",
+        "established on date": "1982-01-01"
+    },
+    "Q1740314": {
+        "has title": "KeyBank",
+        "is a type of": "Bank",
+        "origin country": "United States of America",
+        "has headquarters in": "Cleveland",
+        "established on date": "1825-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q175106": {
+        "has title": "Tim Hortons",
+        "is a type of": "Restaurant",
+        "has headquarters in": "Oakville",
+        "has ceo": "Tim Horton",
+        "established on date": "1964-01-01",
+        "belongs to industry": "fast food",
+        "has parent company": "Restaurant Brands International"
+    },
+    "Q177054": {
+        "has title": "Burger King",
+        "is a type of": "Restaurant",
+        "produces": "['hamburger', 'soft drink', 'french fries', 'hot dog', 'dessert']",
+        "has headquarters in": "Miami",
+        "has ceo": "James McLamore",
+        "established on date": "1954-01-01",
+        "belongs to industry": "gastronomy",
+        "has parent company": "Restaurant Brands International"
+    },
+    "Q1753080": {
+        "has title": "Kmart",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Detroit",
+        "has ceo": "S. S. Kresge",
+        "established on date": "1962-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "Sears Holdings Corporation"
+    },
+    "Q1761176": {
+        "has title": "Al-Rajhi Bank",
+        "is a type of": "Bank",
+        "origin country": "Saudi Arabia",
+        "has headquarters in": "Riyadh",
+        "established on date": "1957-01-01",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q1784995": {
+        "has title": "Alfred Dunhill",
+        "is a type of": "Accessory store",
+        "has headquarters in": "London",
+        "has ceo": "Alfred Dunhill",
+        "established on date": "1907-01-01",
+        "has parent company": "Richemont"
+    },
+    "Q1776022": {
+        "has title": "Equinor",
+        "is a type of": "Petrol station",
+        "origin country": "Norway",
+        "has headquarters in": "Stavanger",
+        "established on date": "1972-06-14",
+        "belongs to industry": "petroleum industry",
+        "has parent company": "Ministry of Petroleum and Energy"
+    },
+    "Q179433": {
+        "has title": "Bridgestone",
+        "is a type of": "Tyre store",
+        "origin country": "Japan",
+        "has headquarters in": "Tokyo",
+        "has ceo": "Sh\u014djir\u014d Ishibashi",
+        "established on date": "1931-01-01"
+    },
+    "Q178516": {
+        "has title": "Gucci",
+        "is a type of": "Apparel store",
+        "origin country": "Italy",
+        "has headquarters in": "Florence",
+        "has ceo": "Guccio Gucci",
+        "established on date": "1921-01-01",
+        "has parent company": "Kering"
+    },
+    "Q1809448": {
+        "has title": "Whole Foods Market",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Austin",
+        "has ceo": "John Mackey",
+        "established on date": "1980-09-20",
+        "belongs to industry": "food industry",
+        "has parent company": "Amazon"
+    },
+    "Q181642": {
+        "has title": "Suzuki",
+        "is a type of": "Auto showroom",
+        "produces": "['truck']",
+        "origin country": "Japan",
+        "has headquarters in": "Hamamatsu",
+        "has ceo": "Michio Suzuki",
+        "established on date": "1909-02-10",
+        "belongs to industry": "automotive industry"
+    },
+    "Q1810389": {
+        "has title": "PTT Public Company Limited",
+        "is a type of": "Petrol station",
+        "origin country": "Thailand",
+        "has headquarters in": "Chatuchak",
+        "established on date": "1977-12-29"
+    },
+    "Q181507": {
+        "has title": "SunTrust Banks",
+        "is a type of": "Bank",
+        "has headquarters in": "Atlanta",
+        "established on date": "1811-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q1817417": {
+        "has title": "National Oilwell Varco",
+        "is a type of": "Petrol station",
+        "origin country": "United States of America",
+        "has headquarters in": "Houston",
+        "established on date": "1862-01-01"
+    },
+    "Q188326": {
+        "has title": "Hennes & Mauritz",
+        "is a type of": "Apparel store",
+        "has headquarters in": "Stockholm",
+        "has ceo": "Erling Persson",
+        "established on date": "1947-10-04",
+        "belongs to industry": "retail"
+    },
+    "Q1820137": {
+        "has title": "Shoppers Drug Mart",
+        "is a type of": "Retail store",
+        "origin country": "Canada",
+        "has headquarters in": "Toronto",
+        "has ceo": "Murray Koffler",
+        "established on date": "1962-01-01",
+        "has parent company": "Loblaw Companies"
+    },
+    "Q1857639": {
+        "has title": "Shoprite",
+        "is a type of": "Retail store",
+        "has headquarters in": "Brackenfell",
+        "established on date": "1979-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q188514": {
+        "has title": "Tata Motors",
+        "is a type of": "Auto showroom",
+        "produces": "['truck']",
+        "origin country": "India",
+        "has headquarters in": "Mumbai",
+        "has ceo": "J. R. D. Tata",
+        "established on date": "1945-01-01",
+        "belongs to industry": "automotive industry",
+        "has parent company": "Tata Group"
+    },
+    "Q190464": {
+        "has title": "HSBC Holdings",
+        "is a type of": "Bank",
+        "origin country": "United Kingdom",
+        "has headquarters in": "London",
+        "has ceo": "Thomas Sutherland",
+        "established on date": "1865-01-01",
+        "belongs to industry": "finance"
+    },
+    "Q1895661": {
+        "has title": "Suning Appliance",
+        "is a type of": "Retail store",
+        "origin country": "People's Republic of China",
+        "has headquarters in": "Nanjing",
+        "has ceo": "Zhang Jindong",
+        "established on date": "1996-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q1917753": {
+        "has title": "Meijer",
+        "is a type of": "Retail store",
+        "has headquarters in": "Grand Rapids",
+        "has ceo": "Hank Meijer",
+        "established on date": "1934-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q191485": {
+        "has title": "Louis Vuitton",
+        "is a type of": "Apparel store",
+        "origin country": "France",
+        "has headquarters in": "Paris",
+        "has ceo": "Louis Vuitton",
+        "established on date": "1854-01-01",
+        "belongs to industry": "clothing industry",
+        "has parent company": "LVMH"
+    },
+    "Q191615": {
+        "has title": "Pizza Hut",
+        "is a type of": "Pizza store",
+        "origin country": "United States of America",
+        "has headquarters in": "Plano",
+        "has ceo": "Dan and Frank Carney",
+        "established on date": "1958-01-01",
+        "belongs to industry": "quick service restaurant sector",
+        "has parent company": "Yum! Brands"
+    },
+    "Q1925685": {
+        "has title": "metroPCS",
+        "is a type of": "Telecom store",
+        "has headquarters in": "Richardson",
+        "has ceo": "Roger D. Linquist",
+        "established on date": "1996-01-01",
+        "belongs to industry": "telecommunications industry"
+    },
+    "Q192314": {
+        "has title": "JPMorgan Chase",
+        "is a type of": "Bank",
+        "produces": "['insurance', 'asset management', 'Q1814021', 'Q2638043']",
+        "origin country": "United States of America",
+        "has headquarters in": "270 Park Avenue",
+        "has ceo": "J. P. Morgan",
+        "established on date": "2000-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q193136": {
+        "has title": "Prada",
+        "is a type of": "Apparel store",
+        "origin country": "Italy",
+        "has headquarters in": "Milan",
+        "has ceo": "Mario Prada",
+        "established on date": "1913-01-01"
+    },
+    "Q1936229": {
+        "has title": "Quiznos",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Denver",
+        "established on date": "1981-01-01",
+        "belongs to industry": "fast food"
+    },
+    "Q19572998": {
+        "has title": "Michael Kors",
+        "is a type of": "Accessories store",
+        "has headquarters in": "New York",
+        "has ceo": "Michael Kors",
+        "established on date": "1981-01-01",
+        "belongs to industry": "clothing industry"
+    },
+    "Q1972120": {
+        "has title": "Sam's Club",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Bentonville",
+        "has ceo": "Sam Walton",
+        "established on date": "1983-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "Walmart"
+    },
+    "Q19882351": {
+        "has title": "Biba Apparels",
+        "is a type of": "Apparel store",
+        "has headquarters in": "New Delhi"
+    },
+    "Q2003549": {
+        "has title": "Axis Bank",
+        "is a type of": "Bank",
+        "origin country": "India",
+        "has headquarters in": "Mumbai",
+        "established on date": "1990-01-01"
+    },
+    "Q2003777": {
+        "has title": "Canara Bank",
+        "is a type of": "Bank",
+        "has headquarters in": "Bangalore",
+        "established on date": "1906-07-01",
+        "belongs to industry": "banking"
+    },
+    "Q2003611": {
+        "has title": "Indian Overseas Bank",
+        "is a type of": "Bank",
+        "has headquarters in": "Chennai",
+        "has ceo": "M. Ct. M. Chidambaram Chettyar",
+        "established on date": "1937-02-10",
+        "belongs to industry": "banking"
+    },
+    "Q2003797": {
+        "has title": "Bank of Baroda",
+        "is a type of": "Bank",
+        "origin country": "India",
+        "has headquarters in": "Vadodara",
+        "has ceo": "Sayajirao Gaekwad III",
+        "established on date": "1908-01-01"
+    },
+    "Q2004078": {
+        "has title": "Union Bank of India",
+        "is a type of": "Bank",
+        "has headquarters in": "Mumbai",
+        "established on date": "1919-11-11",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q2007090": {
+        "has title": "Central Bank of India",
+        "is a type of": "Bank",
+        "has headquarters in": "Mumbai",
+        "established on date": "1911-01-01"
+    },
+    "Q2004439": {
+        "has title": "Bank of India",
+        "is a type of": "Bank",
+        "has headquarters in": "Mumbai",
+        "established on date": "1906-09-07"
+    },
+    "Q20165": {
+        "has title": "Nissan",
+        "is a type of": "Auto showroom",
+        "produces": "['car', 'truck']",
+        "origin country": "Japan",
+        "has headquarters in": "Yokohama",
+        "has ceo": "Yoshisuke Aikawa",
+        "established on date": "1933-12-26",
+        "belongs to industry": "automotive industry",
+        "has parent company": "Renault"
+    },
+    "Q2018840": {
+        "has title": "Allahabad Bank",
+        "is a type of": "Bank",
+        "has headquarters in": "Kolkata",
+        "established on date": "1865-04-24",
+        "belongs to industry": "banking"
+    },
+    "Q201653": {
+        "has title": "SoftBank",
+        "is a type of": "Telecom store",
+        "origin country": "Japan",
+        "has headquarters in": "Minato-ku",
+        "has ceo": "Masayoshi Son",
+        "established on date": "1981-09-03",
+        "belongs to industry": "Information Technology"
+    },
+    "Q2040404": {
+        "has title": "Kotak Mahindra Bank",
+        "is a type of": "Bank",
+        "has headquarters in": "Mumbai",
+        "established on date": "2003-01-01",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q2031726": {
+        "has title": "Westpac",
+        "is a type of": "Bank",
+        "origin country": "Australia",
+        "has headquarters in": "Sydney",
+        "established on date": "1817-01-01"
+    },
+    "Q2038986": {
+        "has title": "Siam Commercial Bank",
+        "is a type of": "Bank",
+        "origin country": "Thailand",
+        "has headquarters in": "Chatuchak",
+        "has ceo": "Jayanta Mongkol",
+        "established on date": "1907-01-30"
+    },
+    "Q2064074": {
+        "has title": "United Overseas Bank",
+        "is a type of": "Bank",
+        "has headquarters in": "Singapore",
+        "has ceo": "Wee Kheng Chiang",
+        "established on date": "1935-01-01"
+    },
+    "Q2042423": {
+        "has title": "Oversea-Chinese Banking Corporation",
+        "is a type of": "Bank",
+        "has headquarters in": "Singapore",
+        "established on date": "1932-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q214480": {
+        "has title": "Dolce & Gabbana",
+        "is a type of": "Apparel store",
+        "origin country": "Italy",
+        "has headquarters in": "Milan",
+        "has ceo": "Domenico Dolce",
+        "established on date": "1985-01-01"
+    },
+    "Q2078880": {
+        "has title": "CVS Pharmacy",
+        "is a type of": "Retail store",
+        "produces": "['medicine']",
+        "origin country": "United States of America",
+        "has headquarters in": "Woonsocket",
+        "established on date": "1963-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "CVS Health"
+    },
+    "Q210047": {
+        "has title": "Petrobras",
+        "is a type of": "Petrol station",
+        "produces": "['petroleum']",
+        "origin country": "Brazil",
+        "has headquarters in": "Rio de Janeiro",
+        "has ceo": "Get\u00falio Vergas",
+        "established on date": "1953-10-03",
+        "belongs to industry": "petroleum industry"
+    },
+    "Q217338": {
+        "has title": "Casio",
+        "is a type of": "Eletronics store",
+        "origin country": "Japan",
+        "has headquarters in": "Shibuya",
+        "has ceo": "Kazuo Kashio",
+        "established on date": "1957-01-01",
+        "belongs to industry": "electronics industry"
+    },
+    "Q218115": {
+        "has title": "Chanel",
+        "is a type of": "Accessory store",
+        "produces": "['clothing', 'perfume', 'jewellery', 'costume accessory']",
+        "has headquarters in": "Neuilly-sur-Seine",
+        "has ceo": "Coco Chanel",
+        "established on date": "1913-01-01"
+    },
+    "Q217599": {
+        "has title": "Carrefour",
+        "is a type of": "Retail store",
+        "has headquarters in": "Boulogne-Billancourt",
+        "established on date": "1959-11-30",
+        "belongs to industry": "retail",
+        "has parent company": "Carrefour Group"
+    },
+    "Q219508": {
+        "has title": "Citigroup",
+        "is a type of": "Bank",
+        "produces": "['insurance']",
+        "origin country": "United States of America",
+        "has headquarters in": "New York City",
+        "established on date": "1812-06-16",
+        "belongs to industry": "financial services"
+    },
+    "Q2216770": {
+        "has title": "Idemitsu Kosan",
+        "is a type of": "Petrol station",
+        "origin country": "Japan",
+        "has headquarters in": "Chiyoda-ku",
+        "has ceo": "Saz\u014d Idemitsu",
+        "established on date": "1911-01-01"
+    },
+    "Q2231148": {
+        "has title": "Pearle Opticians",
+        "is a type of": "Accessory store",
+        "produces": "['motorvehicle']",
+        "has headquarters in": "Savannah",
+        "established on date": "1959-01-01"
+    },
+    "Q9584": {
+        "has title": "Honda",
+        "is a type of": "Auto showroom",
+        "origin country": "Japan",
+        "has headquarters in": "Minato-ku",
+        "has ceo": "S\u014dichir\u014d Honda",
+        "established on date": "1948-09-24",
+        "belongs to industry": "automotive industry"
+    },
+    "Q2262314": {
+        "has title": "Jumbo",
+        "is a type of": "Retail store",
+        "origin country": "Netherlands",
+        "has headquarters in": "Veghel",
+        "established on date": "1979-01-01",
+        "has parent company": "Jumbo Food Groep"
+    },
+    "Q2282172": {
+        "has title": "Yves Saint Laurent",
+        "is a type of": "Apparel store",
+        "origin country": "France",
+        "has headquarters in": "Paris",
+        "has ceo": "Yves Saint Laurent",
+        "established on date": "1961-01-01",
+        "has parent company": "Kering"
+    },
+    "Q2363991": {
+        "has title": "Colruyt",
+        "is a type of": "Retail store",
+        "has headquarters in": "Halle",
+        "has ceo": "Franz Colruyt",
+        "established on date": "1925-01-01",
+        "has parent company": "Colruyt Group"
+    },
+    "Q23317": {
+        "has title": "Audi",
+        "is a type of": "Auto showroom",
+        "produces": "['car', 'passenger car']",
+        "origin country": "Germany",
+        "has headquarters in": "Ingolstadt",
+        "has ceo": "August Horch",
+        "established on date": "1909-01-01",
+        "belongs to industry": "automotive industry",
+        "has parent company": "Volkswagen Group"
+    },
+    "Q2420096": {
+        "has title": "Franprix",
+        "is a type of": "Retail store",
+        "has headquarters in": "Paris",
+        "has ceo": "Jean Baud",
+        "established on date": "1959-01-01",
+        "has parent company": "Groupe Casino"
+    },
+    "Q2376711": {
+        "has title": "Sysco",
+        "is a type of": "Retail store",
+        "has headquarters in": "Houston",
+        "established on date": "1969-01-01",
+        "belongs to industry": "wholesale"
+    },
+    "Q245343": {
+        "has title": "Barclays",
+        "is a type of": "Bank",
+        "origin country": "United Kingdom",
+        "has headquarters in": "London",
+        "established on date": "1690-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q2438391": {
+        "has title": "Chuck E. Cheese's",
+        "is a type of": "Restaurant",
+        "produces": "['pizza']",
+        "origin country": "United States of America",
+        "has headquarters in": "Irving",
+        "has ceo": "Nolan Bushnell",
+        "established on date": "1977-01-01",
+        "belongs to industry": "quick service restaurant sector"
+    },
+    "Q244457": {
+        "has title": "Subway",
+        "is a type of": "Restaurant",
+        "produces": "['salad', 'sandwich']",
+        "origin country": "United States of America",
+        "has headquarters in": "Milford",
+        "has ceo": "Fred DeLuca",
+        "established on date": "1965-08-28",
+        "belongs to industry": "fast food"
+    },
+    "Q246": {
+        "has title": "Volkswagen",
+        "is a type of": "Auto showroom",
+        "origin country": "Germany",
+        "has headquarters in": "Wolfsburg",
+        "has ceo": "Ferdinand Porsche",
+        "established on date": "1937-05-28",
+        "belongs to industry": "automotive industry",
+        "has parent company": "Volkswagen Group"
+    },
+    "Q246655": {
+        "has title": "Next plc",
+        "is a type of": "Apparel store",
+        "origin country": "United Kingdom",
+        "has headquarters in": "Leicester",
+        "has ceo": "Joseph Hepworth",
+        "established on date": "1982-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q259340": {
+        "has title": "7-Eleven",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Irving",
+        "established on date": "1927-01-01",
+        "belongs to industry": "wholesale",
+        "has parent company": "Seven & I Holdings Co."
+    },
+    "Q26070": {
+        "has title": "UNIQLO",
+        "is a type of": "Apparel store",
+        "has headquarters in": "Tokyo",
+        "has ceo": "Tadashi Yanai",
+        "established on date": "1984-06-02",
+        "has parent company": "Fast Retailing"
+    },
+    "Q2607251": {
+        "has title": "\u0130\u015fbank",
+        "is a type of": "Bank",
+        "origin country": "Germany",
+        "has headquarters in": "Frankfurt",
+        "established on date": "1992-01-01"
+    },
+    "Q2629881": {
+        "has title": "Arab Bank",
+        "is a type of": "Bank",
+        "has headquarters in": "Amman",
+        "established on date": "1930-01-01"
+    },
+    "Q2666775": {
+        "has title": "Bank Hapoalim",
+        "is a type of": "Bank",
+        "origin country": "Israel",
+        "has headquarters in": "Tel Aviv",
+        "has ceo": "Histadrut",
+        "established on date": "1921-01-01",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q27074": {
+        "has title": "Aston Martin",
+        "is a type of": "Auto showroom",
+        "origin country": "United Kingdom",
+        "has headquarters in": "Gaydon",
+        "has ceo": "Lionel Martin",
+        "established on date": "1913-01-01",
+        "belongs to industry": "automotive industry"
+    },
+    "Q271413": {
+        "has title": "AEON",
+        "is a type of": "Retail store",
+        "origin country": "Japan",
+        "has headquarters in": "Chiba",
+        "established on date": "1758-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q2721482": {
+        "has title": "Amul",
+        "is a type of": "Restaurant",
+        "has headquarters in": "Anand",
+        "has ceo": "Tribhuvandas Kishibhai Patel",
+        "established on date": "1946-01-01"
+    },
+    "Q27224": {
+        "has title": "Bentley",
+        "is a type of": "Auto showroom",
+        "produces": "['passenger car']",
+        "origin country": "United Kingdom",
+        "has headquarters in": "Crewe",
+        "has ceo": "W. O. Bentley",
+        "established on date": "1919-01-18",
+        "belongs to industry": "automotive industry",
+        "has parent company": "Volkswagen Group"
+    },
+    "Q2740021": {
+        "has title": "National Westminster Bank",
+        "is a type of": "Bank",
+        "origin country": "United Kingdom",
+        "has headquarters in": "London",
+        "has ceo": "National Provincial Bank",
+        "established on date": "1968-01-01",
+        "belongs to industry": "financial services",
+        "has parent company": "The Royal Bank of Scotland Group"
+    },
+    "Q2743499": {
+        "has title": "Punjab National Bank",
+        "is a type of": "Bank",
+        "origin country": "India",
+        "has headquarters in": "New Delhi",
+        "has ceo": "Lala Lajpat Rai",
+        "established on date": "1894-01-01",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q27423": {
+        "has title": "BYD Auto",
+        "is a type of": "Auto showroom",
+        "has headquarters in": "Shenzhen",
+        "has ceo": "Wang Chuanfu",
+        "established on date": "1995-01-01",
+        "belongs to industry": "automotive industry",
+        "has parent company": "BYD Company"
+    },
+    "Q27436": {
+        "has title": "Cadillac",
+        "is a type of": "Auto showroom",
+        "origin country": "United States of America",
+        "has headquarters in": "Detroit",
+        "has ceo": "Henry Ford",
+        "established on date": "1902-01-01",
+        "belongs to industry": "automotive industry",
+        "has parent company": "General Motors"
+    },
+    "Q27586": {
+        "has title": "Ferrari",
+        "is a type of": "Auto showroom",
+        "origin country": "Italy",
+        "has headquarters in": "Maranello",
+        "has ceo": "Enzo Ferrari",
+        "established on date": "1947-01-01",
+        "belongs to industry": "automotive industry",
+        "has parent company": "Ferrari N.V."
+    },
+    "Q2759586": {
+        "has title": "Papa John's Pizza",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Louisville",
+        "has ceo": "John Schnatter",
+        "established on date": "1984-01-01",
+        "belongs to industry": "gastronomy"
+    },
+    "Q276557": {
+        "has title": "Kasikornbank",
+        "is a type of": "Bank",
+        "origin country": "Thailand",
+        "has headquarters in": "Bangkok",
+        "has ceo": "Choti Lamsam",
+        "established on date": "1945-06-08"
+    },
+    "Q27597": {
+        "has title": "Fiat",
+        "is a type of": "Auto showroom",
+        "origin country": "Italy",
+        "has headquarters in": "Turin",
+        "has ceo": "Giovanni Agnelli",
+        "established on date": "1899-07-11",
+        "belongs to industry": "automotive industry",
+        "has parent company": "Fiat Group Automobiles"
+    },
+    "Q27676067": {
+        "has title": "Amazon Go",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "established on date": "2016-12-05",
+        "belongs to industry": "retail"
+    },
+    "Q277470": {
+        "has title": "Caltex",
+        "is a type of": "Petrol station",
+        "established on date": "1936-06-30"
+    },
+    "Q283852": {
+        "has title": "Turkcell",
+        "is a type of": "Bank",
+        "origin country": "Turkey",
+        "has headquarters in": "Istanbul",
+        "has ceo": "Mehmet Emin Karamehmet",
+        "established on date": "1994-01-01",
+        "belongs to industry": "telecommunications industry"
+    },
+    "Q283383": {
+        "has title": "Bloomingdale's",
+        "is a type of": "Retail store",
+        "has headquarters in": "New York City",
+        "has ceo": "Joseph B. Bloomingdale",
+        "established on date": "1860-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "Macy's, Inc."
+    },
+    "Q2836957": {
+        "has title": "Alimentation Couche-Tard",
+        "is a type of": "Retail store",
+        "origin country": "Canada",
+        "has headquarters in": "Laval",
+        "has ceo": "Alain Bouchard",
+        "established on date": "1980-01-01",
+        "belongs to industry": "convenience store"
+    },
+    "Q285328": {
+        "has title": "Commonwealth Bank",
+        "is a type of": "Bank",
+        "origin country": "Australia",
+        "has headquarters in": "Sydney",
+        "established on date": "1911-12-22",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q2882611": {
+        "has title": "Bank Negara Indonesia",
+        "is a type of": "Bank",
+        "has headquarters in": "Wisma 46",
+        "established on date": "1946-01-01"
+    },
+    "Q2882956": {
+        "has title": "Mizuho Bank",
+        "is a type of": "Bank",
+        "origin country": "Japan",
+        "has headquarters in": "Otemachi Tower",
+        "established on date": "2002-01-01",
+        "belongs to industry": "financial services",
+        "has parent company": "Mizuho Financial Group"
+    },
+    "Q2889702": {
+        "has title": "Brico D\u00e9p\u00f4t",
+        "is a type of": "Retail store",
+        "origin country": "France",
+        "has headquarters in": "Longpont-sur-Orge",
+        "established on date": "1993-01-01",
+        "has parent company": "Kingfisher plc"
+    },
+    "Q2895314": {
+        "has title": "Iyo Bank",
+        "is a type of": "Bank",
+        "has headquarters in": "Matsuyama",
+        "established on date": "1878-03-15"
+    },
+    "Q29560723": {
+        "has title": "KBC Group",
+        "is a type of": "Bank",
+        "origin country": "Belgium",
+        "has headquarters in": "Brussels",
+        "established on date": "1935-01-01",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q28993": {
+        "has title": "GMC",
+        "is a type of": "Auto showroom",
+        "produces": "['truck']",
+        "origin country": "United States of America",
+        "has headquarters in": "Detroit",
+        "has ceo": "William C. Durant",
+        "established on date": "1911-07-22",
+        "belongs to industry": "automotive industry",
+        "has parent company": "General Motors"
+    },
+    "Q29570": {
+        "has title": "Chevrolet",
+        "is a type of": "Auto showroom",
+        "produces": "['car', 'truck']",
+        "origin country": "United States of America",
+        "has headquarters in": "Detroit",
+        "has ceo": "Louis Chevrolet",
+        "established on date": "1911-11-03",
+        "belongs to industry": "automotive industry",
+        "has parent company": "General Motors"
+    },
+    "Q29637": {
+        "has title": "\u0160koda Auto",
+        "is a type of": "Auto showroom",
+        "produces": "['car', '\u0160koda Fabia', '\u0160koda Rapid (2012-)', '\u0160koda Octavia', '\u0160koda Citigo', '\u0160koda Felicia', '\u0160koda Roomster', '\u0160koda Superb', '\u0160koda Yeti', '\u0160koda Kodiaq', '\u0160koda Karoq', '\u0160koda Kamiq']",
+        "origin country": "Czech Republic",
+        "has headquarters in": "Mlad\u00e1 Boleslav",
+        "has ceo": "V\u00e1clav Laurin",
+        "established on date": "1895-12-17",
+        "belongs to industry": "automotive industry",
+        "has parent company": "Volkswagen Group"
+    },
+    "Q297410": {
+        "has title": "Asda",
+        "is a type of": "Retail store",
+        "has headquarters in": "Leeds",
+        "established on date": "1965-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "Walmart"
+    },
+    "Q2974454": {
+        "has title": "Frontier Communications",
+        "is a type of": "Telecom store",
+        "origin country": "United States of America",
+        "has headquarters in": "Stamford",
+        "established on date": "1927-01-01",
+        "belongs to industry": "telecommunications industry"
+    },
+    "Q29803": {
+        "has title": "Isuzu Motors",
+        "is a type of": "Auto showroom",
+        "produces": "['truck', 'diesel engine']",
+        "origin country": "Japan",
+        "has headquarters in": "Shinagawa-ku",
+        "has ceo": "Yoshisuke Aikawa",
+        "established on date": "1893-01-01",
+        "belongs to industry": "automotive industry"
+    },
+    "Q3045312": {
+        "has title": "Olive Garden",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Orlando",
+        "established on date": "1982-01-01",
+        "belongs to industry": "System catering"
+    },
+    "Q3045976": {
+        "has title": "CIMB",
+        "is a type of": "Bank",
+        "origin country": "Malaysia",
+        "has headquarters in": "Kuala Lumpur",
+        "established on date": "1974-01-01"
+    },
+    "Q3046549": {
+        "has title": "East West Bank",
+        "is a type of": "Bank",
+        "origin country": "United States of America",
+        "has headquarters in": "Pasadena",
+        "established on date": "1973-01-01",
+        "has parent company": "East West Bancorp"
+    },
+    "Q3067119": {
+        "has title": "Fastenal",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Winona",
+        "established on date": "1967-01-01"
+    },
+    "Q3046561": {
+        "has title": "Public Bank Berhad",
+        "is a type of": "Bank",
+        "origin country": "Malaysia",
+        "has headquarters in": "Kuala Lumpur",
+        "has ceo": "Teh Hong Piow",
+        "established on date": "1966-01-01"
+    },
+    "Q307110": {
+        "has title": "au",
+        "is a type of": "Telecom store",
+        "origin country": "Japan",
+        "has headquarters in": "Japan",
+        "established on date": "2000-11-01",
+        "belongs to industry": "telecommunications industry",
+        "has parent company": "KDDI"
+    },
+    "Q3088784": {
+        "has title": "Jamba Juice",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Emeryville",
+        "established on date": "1990-01-01"
+    },
+    "Q3088746": {
+        "has title": "Ito-Yokado",
+        "is a type of": "Retail store",
+        "origin country": "Japan",
+        "has headquarters in": "Tokyo",
+        "established on date": "1920-01-01",
+        "has parent company": "Seven & I Holdings Co."
+    },
+    "Q309031": {
+        "has title": "Lacoste",
+        "is a type of": "Apparel store",
+        "produces": "['clothing', 'perfume', 'footwear', 'watch', 'eyewear']",
+        "origin country": "France",
+        "has headquarters in": "Paris",
+        "has ceo": "Ren\u00e9 Lacoste",
+        "established on date": "1933-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "Maus Fr\u00e8res"
+    },
+    "Q319642": {
+        "has title": "Chevron Corporation",
+        "is a type of": "Petrol station",
+        "produces": "['petroleum']",
+        "origin country": "United States of America",
+        "has headquarters in": "San Ramon",
+        "established on date": "1879-01-01",
+        "belongs to industry": "petroleum industry"
+    },
+    "Q319344": {
+        "has title": "Abercrombie & Fitch",
+        "is a type of": "Apparel store",
+        "origin country": "United States of America",
+        "has headquarters in": "New Albany",
+        "has ceo": "David T. Abercrombie",
+        "established on date": "1892-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q3212802": {
+        "has title": "La Senza",
+        "is a type of": "Apparel store",
+        "has headquarters in": "Montreal",
+        "established on date": "1990-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q3212934": {
+        "has title": "The Source",
+        "is a type of": "Telecom store",
+        "origin country": "Canada",
+        "has headquarters in": "Barrie",
+        "established on date": "1986-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q3259007": {
+        "has title": "LongHorn Steakhouse",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "established on date": "1981-01-01",
+        "belongs to industry": "gastronomy"
+    },
+    "Q322962": {
+        "has title": "Garanti Bank",
+        "is a type of": "Bank",
+        "origin country": "Turkey",
+        "has headquarters in": "Istanbul",
+        "established on date": "1946-01-01"
+    },
+    "Q327634": {
+        "has title": "T-Mobile International",
+        "is a type of": "Telecom store",
+        "origin country": "Germany",
+        "has headquarters in": "Bonn",
+        "has ceo": "Deutsche Telekom",
+        "established on date": "2003-03-18",
+        "belongs to industry": "telecommunications industry",
+        "has parent company": "Deutsche Telekom"
+    },
+    "Q326715": {
+        "has title": "Lotte Mart",
+        "is a type of": "Retail store",
+        "has ceo": "Shin Kyuk-ho",
+        "established on date": "1998-01-01"
+    },
+    "Q3272257": {
+        "has title": "M&T Bank",
+        "is a type of": "Bank",
+        "origin country": "United States of America",
+        "has headquarters in": "Buffalo",
+        "established on date": "1856-01-01"
+    },
+    "Q329347": {
+        "has title": "Lukoil",
+        "is a type of": "Petrol station",
+        "produces": "['petroleum', 'natural gas', 'petroleum product']",
+        "has headquarters in": "Moscow",
+        "has ceo": "Vagit Alekperov",
+        "established on date": "1991-11-25",
+        "belongs to industry": "petroleum industry"
+    },
+    "Q3321241": {
+        "has title": "Monoprix",
+        "is a type of": "Retail store",
+        "origin country": "France",
+        "has headquarters in": "Clichy",
+        "has ceo": "Max Heilbronn",
+        "established on date": "1932-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "Groupe Casino"
+    },
+    "Q332477": {
+        "has title": "Victoria's Secret",
+        "is a type of": "Apparel store",
+        "origin country": "United States of America",
+        "has headquarters in": "Columbus",
+        "has ceo": "Roy Raymond",
+        "established on date": "1977-01-01",
+        "has parent company": "L Brands"
+    },
+    "Q3327046": {
+        "has title": "Oysho",
+        "is a type of": "Apparel store",
+        "has headquarters in": "Tordera",
+        "established on date": "1977-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "Inditex"
+    },
+    "Q3355059": {
+        "has title": "Orange Julius",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Los Angeles",
+        "established on date": "1926-01-01"
+    },
+    "Q338633": {
+        "has title": "KPN",
+        "is a type of": "Telecom store",
+        "origin country": "Netherlands",
+        "has headquarters in": "The Hague",
+        "established on date": "1989-01-01",
+        "belongs to industry": "telecommunications industry"
+    },
+    "Q3433273": {
+        "has title": "Rite Aid",
+        "is a type of": "Retail store",
+        "has headquarters in": "East Pennsboro Township",
+        "has ceo": "Alex Grass",
+        "established on date": "1962-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q3442791": {
+        "has title": "Ross Stores",
+        "is a type of": "Apparel store",
+        "origin country": "United States of America",
+        "has headquarters in": "Dublin",
+        "established on date": "1954-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q35349": {
+        "has title": "Kia Motors",
+        "is a type of": "Auto showroom",
+        "produces": "['car']",
+        "origin country": "South Korea",
+        "has headquarters in": "Seoul",
+        "established on date": "1944-12-21",
+        "belongs to industry": "automotive industry",
+        "has parent company": "Hyundai Motor Group"
+    },
+    "Q3472954": {
+        "has title": "Nando's",
+        "is a type of": "Restaurant",
+        "has headquarters in": "Johannesburg",
+        "established on date": "1987-01-01"
+    },
+    "Q3537018": {
+        "has title": "Raymond Group",
+        "is a type of": "Apparel store",
+        "has headquarters in": "Mumbai",
+        "established on date": "1925-01-01"
+    },
+    "Q35476": {
+        "has title": "AT&T",
+        "is a type of": "Bank",
+        "produces": "['software', 'mobile phone', 'broadband', 'digital television', 'satellite television', 'landline telephone', 'Broadband Internet access']",
+        "origin country": "United States of America",
+        "has headquarters in": "Whitacre Tower",
+        "established on date": "1983-10-05",
+        "belongs to industry": "telecommunication"
+    },
+    "Q3552193": {
+        "has title": "Urban Outfitters",
+        "is a type of": "Apparel store",
+        "produces": "['clothing']",
+        "origin country": "United States of America",
+        "has headquarters in": "Philadelphia",
+        "has ceo": "Richard Hayne",
+        "established on date": "1970-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q35886": {
+        "has title": "Lamborghini",
+        "is a type of": "Auto showroom",
+        "produces": "['supercar', 'luxury vehicle']",
+        "origin country": "Italy",
+        "has headquarters in": "Sant'Agata Bolognese",
+        "has ceo": "Ferruccio Lamborghini",
+        "established on date": "1948-03-11",
+        "belongs to industry": "automotive industry",
+        "has parent company": "Audi"
+    },
+    "Q3593818": {
+        "has title": "Halkbank a.d.",
+        "is a type of": "Bank",
+        "has headquarters in": "\u010ca\u010dak",
+        "established on date": "1990-01-01"
+    },
+    "Q36008": {
+        "has title": "Mercedes-Benz",
+        "is a type of": "Auto showroom",
+        "produces": "['car', 'truck']",
+        "has headquarters in": "Stuttgart",
+        "has ceo": "Paul Daimler",
+        "established on date": "1926-01-01",
+        "belongs to industry": "automotive industry",
+        "has parent company": "Daimler AG"
+    },
+    "Q35996": {
+        "has title": "Mazda",
+        "is a type of": "Auto showroom",
+        "produces": "['truck']",
+        "origin country": "Japan",
+        "has headquarters in": "Fuch\u016b",
+        "has ceo": "Abdul Ghani",
+        "established on date": "1920-01-01",
+        "belongs to industry": "automotive industry"
+    },
+    "Q36033": {
+        "has title": "Mitsubishi Motors",
+        "is a type of": "Auto showroom",
+        "origin country": "Japan",
+        "has headquarters in": "Minato-ku",
+        "has ceo": "Mitsubishi Heavy Industries",
+        "established on date": "1970-04-22",
+        "belongs to industry": "automotive industry",
+        "has parent company": "Mitsubishi"
+    },
+    "Q3631008": {
+        "has title": "Big Bazaar",
+        "is a type of": "Retail store",
+        "has headquarters in": "Mumbai",
+        "has ceo": "Kishore Biyani",
+        "established on date": "2001-01-01",
+        "has parent company": "Future Group"
+    },
+    "Q3633485": {
+        "has title": "IDBI Bank",
+        "is a type of": "Bank",
+        "has headquarters in": "Mumbai",
+        "established on date": "1964-01-01"
+    },
+    "Q37158": {
+        "has title": "Starbucks",
+        "is a type of": "Restaurant",
+        "produces": "['coffee', 'frappuccino']",
+        "origin country": "United States of America",
+        "has headquarters in": "Seattle",
+        "has ceo": "Jerry Baldwin",
+        "established on date": "1971-03-30",
+        "belongs to industry": "gastronomy"
+    },
+    "Q37614": {
+        "has title": "Jollibee Foods Corporation",
+        "is a type of": "Restaurant",
+        "has headquarters in": "Pasig",
+        "established on date": "1978-01-01",
+        "belongs to industry": "quick service restaurant sector"
+    },
+    "Q373038": {
+        "has title": "Goody's",
+        "is a type of": "Restaurant",
+        "origin country": "Greece",
+        "has headquarters in": "Athens International Airport",
+        "established on date": "1975-01-01",
+        "has parent company": "Vivartia"
+    },
+    "Q38076": {
+        "has title": "McDonald's",
+        "is a type of": "Restaurant",
+        "has headquarters in": "Oak Brook",
+        "has ceo": "Ray Kroc",
+        "established on date": "1940-05-15",
+        "belongs to industry": "quick service restaurant sector"
+    },
+    "Q376627": {
+        "has title": "Whataburger",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "San Antonio",
+        "established on date": "1950-01-01",
+        "belongs to industry": "gastronomy"
+    },
+    "Q377915": {
+        "has title": "Agip",
+        "is a type of": "Petrol station",
+        "origin country": "Italy",
+        "has headquarters in": "Rome",
+        "established on date": "1926-01-01",
+        "belongs to industry": "petroleum industry",
+        "has parent company": "Eni"
+    },
+    "Q3878818": {
+        "has title": "Charles & Keith",
+        "is a type of": "Accessory Store",
+        "has headquarters in": "Singapore",
+        "established on date": "1996-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q38928": {
+        "has title": "PNC Financial Services",
+        "is a type of": "Bank",
+        "origin country": "United States of America",
+        "has headquarters in": "Pittsburgh",
+        "established on date": "1982-01-01",
+        "belongs to industry": "bank"
+    },
+    "Q3895": {
+        "has title": "Adidas",
+        "is a type of": "Apparel store",
+        "produces": "['footwear', 'sportswear', 'sports equipment', 'personal care']",
+        "origin country": "Germany",
+        "has headquarters in": "Herzogenaurach",
+        "has ceo": "Adolf Dassler",
+        "established on date": "1924-07-01",
+        "belongs to industry": "clothing"
+    },
+    "Q38960": {
+        "has title": "China CITIC Bank",
+        "is a type of": "Bank",
+        "origin country": "People's Republic of China",
+        "has headquarters in": "Beijing",
+        "established on date": "1987-01-01"
+    },
+    "Q390107": {
+        "has title": "Burberry",
+        "is a type of": "Apparel store",
+        "origin country": "United Kingdom",
+        "has headquarters in": "London",
+        "has ceo": "Thomas Burberry",
+        "established on date": "1856-01-01",
+        "belongs to industry": "clothing industry"
+    },
+    "Q4045072": {
+        "has title": "National Bank of Kuwait",
+        "is a type of": "Bank",
+        "has headquarters in": "Kuwait City",
+        "established on date": "1952-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q39146": {
+        "has title": "Bank of Beijing",
+        "is a type of": "Bank",
+        "origin country": "People's Republic of China",
+        "has headquarters in": "Beijing",
+        "established on date": "1996-01-01"
+    },
+    "Q40993": {
+        "has title": "Porsche",
+        "is a type of": "Auto showroom",
+        "produces": "['car']",
+        "origin country": "Germany",
+        "has headquarters in": "Stuttgart",
+        "has ceo": "Ferdinand Porsche",
+        "established on date": "1931-01-01",
+        "belongs to industry": "automotive industry",
+        "has parent company": "Volkswagen Group"
+    },
+    "Q41187": {
+        "has title": "Sony",
+        "is a type of": "Electronics store",
+        "produces": "['computer hardware', 'software', 'video game', 'semiconductor', 'consumer electronics', 'telecommunications equipment']",
+        "origin country": "Japan",
+        "has headquarters in": "Sony City",
+        "has ceo": "Akio Morita",
+        "established on date": "1946-05-07",
+        "belongs to industry": "consumer electronics"
+    },
+    "Q416624": {
+        "has title": "Akbank",
+        "is a type of": "Bank",
+        "origin country": "Turkey",
+        "has headquarters in": "Istanbul",
+        "established on date": "1948-01-01"
+    },
+    "Q420822": {
+        "has title": "Gap, Inc.",
+        "is a type of": "Apparel store",
+        "origin country": "United States of America",
+        "has headquarters in": "San Francisco",
+        "has ceo": "Donald Fisher",
+        "established on date": "1983-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q426992": {
+        "has title": "Pepe Jeans",
+        "is a type of": "Apparel store",
+        "origin country": "Spain",
+        "has headquarters in": "London",
+        "established on date": "1973-01-01"
+    },
+    "Q44294": {
+        "has title": "Ford Motor Company",
+        "is a type of": "Auto showroom",
+        "produces": "['truck', 'passenger car']",
+        "origin country": "United States of America",
+        "has headquarters in": "Ford World Headquarters",
+        "has ceo": "Henry Ford",
+        "established on date": "1903-06-16",
+        "belongs to industry": "automotive industry"
+    },
+    "Q451476": {
+        "has title": "Scotiabank",
+        "is a type of": "Bank",
+        "origin country": "Canada",
+        "has headquarters in": "Toronto",
+        "established on date": "1832-01-01",
+        "belongs to industry": "bank"
+    },
+    "Q458363": {
+        "has title": "Marathon Petroleum",
+        "is a type of": "Petrol station",
+        "origin country": "United States of America",
+        "has headquarters in": "Findlay",
+        "established on date": "2005-01-01",
+        "belongs to industry": "petroleum industry"
+    },
+    "Q45568": {
+        "has title": "UniCredit",
+        "is a type of": "Bank",
+        "origin country": "Italy",
+        "has headquarters in": "Unicredit Tower",
+        "established on date": "1998-01-01",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q463378": {
+        "has title": "American Apparel",
+        "is a type of": "Apparel store",
+        "origin country": "United States of America",
+        "has headquarters in": "Los Angeles",
+        "has ceo": "Dov Charney",
+        "established on date": "1989-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q465751": {
+        "has title": "Chipotle Mexican Grill",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Denver",
+        "has ceo": "Steve Ells",
+        "established on date": "1993-07-13",
+        "belongs to industry": "fast food"
+    },
+    "Q46730": {
+        "has title": "Banca Monte dei Paschi di Siena",
+        "is a type of": "Bank",
+        "origin country": "Italy",
+        "has headquarters in": "Siena",
+        "established on date": "1472-01-01",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q466183": {
+        "has title": "Reebok",
+        "is a type of": "Apparel store",
+        "produces": "['sports equipment']",
+        "origin country": "United States of America",
+        "has headquarters in": "Boston",
+        "has ceo": "Joseph William Foster",
+        "established on date": "1895-01-01",
+        "belongs to industry": "textile industry",
+        "has parent company": "Adidas"
+    },
+    "Q4686051": {
+        "has title": "Advance Auto Parts",
+        "is a type of": "Auto showroom",
+        "origin country": "United States of America",
+        "has headquarters in": "Roanoke",
+        "established on date": "1932-01-01"
+    },
+    "Q467752": {
+        "has title": "Verizon",
+        "is a type of": "Telecom store",
+        "origin country": "United States of America",
+        "has headquarters in": "New York City",
+        "has ceo": "AT&T Corporation",
+        "established on date": "1983-10-07",
+        "belongs to industry": "telecommunications industry"
+    },
+    "Q4740834": {
+        "has title": "AmazonFresh",
+        "is a type of": "Retail store"
+    },
+    "Q4766699": {
+        "has title": "Ann Taylor",
+        "is a type of": "Apparel store",
+        "origin country": "United States of America",
+        "has headquarters in": "Times Square Tower",
+        "established on date": "1954-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q478214": {
+        "has title": "Tesla",
+        "is a type of": "Auto showroom",
+        "produces": "['Tesla Roadster (2008)', 'Tesla Model S', 'Tesla Model X', 'Tesla Powerwall', 'Tesla Model 3', 'Tesla Semi', 'Tesla Model Y', 'Tesla Solar Roof', 'Tesla Powerpack', 'Tesla Solar Panels']",
+        "origin country": "United States of America",
+        "has headquarters in": "Palo Alto",
+        "has ceo": "Elon Musk",
+        "established on date": "2003-07-01",
+        "belongs to industry": "automotive industry"
+    },
+    "Q4822010": {
+        "has title": "Auntie Anne's",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Lancaster U.S. Post Office building",
+        "has ceo": "Anne F. Beiler",
+        "established on date": "1988-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q4835754": {
+        "has title": "BJ's Wholesale Club",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Westborough",
+        "established on date": "1984-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q4826087": {
+        "has title": "AutoZone",
+        "is a type of": "Auto showroom",
+        "has headquarters in": "Memphis",
+        "has ceo": "Pitt Hyde",
+        "established on date": "1979-01-01",
+        "belongs to industry": "automotive industry"
+    },
+    "Q483551": {
+        "has title": "Walmart",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Arkansas",
+        "has ceo": "Sam Walton",
+        "established on date": "1962-07-02",
+        "belongs to industry": "retail"
+    },
+    "Q487494": {
+        "has title": "Tesco",
+        "is a type of": "Retail store",
+        "origin country": "United Kingdom",
+        "has headquarters in": "Welwyn Garden City",
+        "has ceo": "Jack Cohen",
+        "established on date": "1919-01-01",
+        "belongs to industry": "retail chain"
+    },
+    "Q483915": {
+        "has title": "Nike",
+        "is a type of": "Apparel store",
+        "produces": "['clothing', 'footwear', 'sports equipment']",
+        "origin country": "United States of America",
+        "has headquarters in": "Beaverton",
+        "has ceo": "Phil Knight",
+        "established on date": "1964-01-25",
+        "belongs to industry": "retail"
+    },
+    "Q4876153": {
+        "has title": "Bealls",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Bradenton",
+        "established on date": "1915-01-01"
+    },
+    "Q487907": {
+        "has title": "Bank of America",
+        "is a type of": "Bank",
+        "produces": "['insurance', 'credit', 'asset management']",
+        "origin country": "United States of America",
+        "has headquarters in": "North Carolina",
+        "has ceo": "Amadeo Giannini",
+        "established on date": "1923-01-01",
+        "belongs to industry": "financial services",
+        "has parent company": "Berkshire Hathaway"
+    },
+    "Q488643": {
+        "has title": "Sibylla",
+        "is a type of": "Restaurant",
+        "origin country": "Sweden",
+        "established on date": "1907-01-01"
+    },
+    "Q4887077": {
+        "has title": "Bendigo Bank",
+        "is a type of": "Bank",
+        "origin country": "Australia",
+        "has headquarters in": "Bendigo",
+        "established on date": "1858-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q48881": {
+        "has title": "Sherwin-Williams",
+        "is a type of": "Accessory store",
+        "origin country": "United States of America",
+        "has headquarters in": "Cleveland",
+        "has ceo": "Edward Williams",
+        "established on date": "1866-01-01",
+        "belongs to industry": "chemical industry"
+    },
+    "Q4902331": {
+        "has title": "Bi-Mart",
+        "is a type of": "Retail store",
+        "has headquarters in": "Eugene",
+        "established on date": "1955-01-01"
+    },
+    "Q490371": {
+        "has title": "e-mart",
+        "is a type of": "Retail store",
+        "has headquarters in": "Seoul",
+        "established on date": "1993-01-01",
+        "has parent company": "Shinsegae"
+    },
+    "Q4905973": {
+        "has title": "Big Lots",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Columbus",
+        "established on date": "1967-01-01"
+    },
+    "Q491516": {
+        "has title": "Chick-fil-A",
+        "is a type of": "Restaurant",
+        "produces": "['sandwich']",
+        "origin country": "United States of America",
+        "has headquarters in": "Atlanta",
+        "has ceo": "S. Truett Cathy",
+        "established on date": "1946-01-01",
+        "belongs to industry": "fast food"
+    },
+    "Q49125": {
+        "has title": "Toshiba",
+        "is a type of": "Electronics store",
+        "produces": "['computer hardware', 'software', 'semiconductor', 'escalator', 'movie theater', 'elevator', 'home appliance', 'networking hardware', 'office supply', 'electrical equipment', 'computer memory', 'medical equipment', 'Social infrastructure']",
+        "origin country": "Japan",
+        "has headquarters in": "Minato-ku",
+        "has ceo": "Tanaka Hisashige",
+        "established on date": "1875-01-01",
+        "belongs to industry": "software industry",
+        "has parent company": "Mitsui Group"
+    },
+    "Q491627": {
+        "has title": "Hugo Boss",
+        "is a type of": "Apparel store",
+        "produces": "['designer clothing']",
+        "origin country": "Germany",
+        "has headquarters in": "Metzingen",
+        "has ceo": "Hugo Boss",
+        "established on date": "1924-01-01",
+        "belongs to industry": "textile industry",
+        "has parent company": "Valentino Fashion Group"
+    },
+    "Q493145": {
+        "has title": "SK Telecom",
+        "is a type of": "Telecom store",
+        "origin country": "South Korea",
+        "has headquarters in": "Jung District",
+        "established on date": "1984-01-01",
+        "belongs to industry": "telecommunications industry",
+        "has parent company": "SK C&C"
+    },
+    "Q494389": {
+        "has title": "Polaroid Corporation",
+        "is a type of": "Electronics store",
+        "origin country": "United States of America",
+        "has headquarters in": "Concord",
+        "has ceo": "Edwin H. Land",
+        "established on date": "1937-01-01"
+    },
+    "Q4999220": {
+        "has title": "Burlington Coat Factory",
+        "is a type of": "Apparel store",
+        "has headquarters in": "Florence Township",
+        "established on date": "1972-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q497534": {
+        "has title": "Hyundai Mobis",
+        "is a type of": "Auto showroom",
+        "origin country": "South Korea",
+        "has headquarters in": "Seoul",
+        "established on date": "1977-01-01",
+        "belongs to industry": "automotive industry"
+    },
+    "Q499707": {
+        "has title": "BNP Paribas",
+        "is a type of": "Bank",
+        "origin country": "France",
+        "has headquarters in": "Paris",
+        "established on date": "2000-05-23",
+        "belongs to industry": "financial services"
+    },
+    "Q4997829": {
+        "has title": "Bunnings Group",
+        "is a type of": "Retail store",
+        "origin country": "Australia",
+        "has headquarters in": "Hawthorn East",
+        "established on date": "1952-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "Wesfarmers"
+    },
+    "Q5006735": {
+        "has title": "C. O. Bigelow",
+        "is a type of": "Retail store",
+        "produces": "['shampoo', 'shaving cream', 'hair conditioner', 'shower gel', 'lotion', 'Body spray']",
+        "origin country": "United States of America"
+    },
+    "Q5017235": {
+        "has title": "Caf\u00e9 Coffee Day",
+        "is a type of": "Restaurant",
+        "produces": "['coffee']",
+        "has headquarters in": "Bangalore",
+        "has ceo": "V. G. Siddhartha",
+        "established on date": "1996-01-01"
+    },
+    "Q503182": {
+        "has title": "PetroChina",
+        "is a type of": "Petrol station",
+        "origin country": "People's Republic of China",
+        "has headquarters in": "Dongcheng District",
+        "established on date": "1999-01-01",
+        "belongs to industry": "petroleum industry",
+        "has parent company": "China National Petroleum Corporation"
+    },
+    "Q5037190": {
+        "has title": "CarMax",
+        "is a type of": "Auto showroom",
+        "origin country": "United States of America",
+        "has headquarters in": "Goochland County",
+        "established on date": "1993-01-01"
+    },
+    "Q5071627": {
+        "has title": "Chang Hwa Bank",
+        "is a type of": "Bank",
+        "has headquarters in": "Taichung",
+        "established on date": "1905-01-01"
+    },
+    "Q5096233": {
+        "has title": "Chicken Cottage",
+        "is a type of": "Restaurant",
+        "origin country": "United Kingdom",
+        "has headquarters in": "London",
+        "established on date": "1994-01-01",
+        "belongs to industry": "fast food"
+    },
+    "Q5105515": {
+        "has title": "Chow Tai Fook",
+        "is a type of": "Accessory store",
+        "origin country": "People's Republic of China",
+        "has headquarters in": "Hong Kong",
+        "has ceo": "Chow Chi Yuen",
+        "established on date": "1929-01-01"
+    },
+    "Q5135229": {
+        "has title": "Falabella",
+        "is a type of": "Retail store",
+        "origin country": "Chile",
+        "has headquarters in": "Santiago",
+        "established on date": "1889-01-01"
+    },
+    "Q5213855": {
+        "has title": "Jimmy Choo Ltd",
+        "is a type of": "Apparel store",
+        "origin country": "United Kingdom",
+        "has headquarters in": "London",
+        "has ceo": "Jimmy Choo",
+        "established on date": "1996-01-01"
+    },
+    "Q5272601": {
+        "has title": "Dick's Sporting Goods",
+        "is a type of": "Retail store",
+        "has headquarters in": "Coraopolis",
+        "established on date": "1948-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q5215421": {
+        "has title": "Sumitomo Mitsui Trust Bank",
+        "is a type of": "Bank",
+        "origin country": "Japan",
+        "established on date": "1925-07-28",
+        "has parent company": "Sumitomo Mitsui Trust Holdings"
+    },
+    "Q5289230": {
+        "has title": "Dollar Tree",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Chesapeake",
+        "established on date": "1986-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q5242054": {
+        "has title": "Davivienda",
+        "is a type of": "Bank",
+        "origin country": "Colombia",
+        "has headquarters in": "Bogot\u00e1",
+        "established on date": "1972-01-01"
+    },
+    "Q524757": {
+        "has title": "KFC",
+        "is a type of": "Restaurant",
+        "produces": "['Chicken dish']",
+        "origin country": "United States of America",
+        "has headquarters in": "Louisville",
+        "has ceo": "Colonel Sanders",
+        "established on date": "1930-01-01",
+        "belongs to industry": "quick service restaurant sector",
+        "has parent company": "Yum! Brands"
+    },
+    "Q53238": {
+        "has title": "Hitachi",
+        "is a type of": "Electronics store",
+        "produces": "['software', 'information system', 'power station', 'home appliance', 'power tool', 'machine', 'electronic device', 'telecommunications equipment']",
+        "origin country": "Japan",
+        "has headquarters in": "Chiyoda-ku",
+        "has ceo": "Namihei Odaira",
+        "established on date": "1910-01-01",
+        "belongs to industry": "consumer electronics"
+    },
+    "Q53247": {
+        "has title": "Panasonic Corporation",
+        "is a type of": "Electronics store",
+        "produces": "['television', 'laptop', 'computer hardware', 'software', 'video game console', 'desktop computer', 'digital camera', 'home appliance', 'LCD projector', 'DVD player']",
+        "origin country": "Japan",
+        "has headquarters in": "Kadoma",
+        "has ceo": "Konosuke Matsushita",
+        "established on date": "1918-03-13",
+        "belongs to industry": "electronics"
+    },
+    "Q53268": {
+        "has title": "Toyota",
+        "is a type of": "Auto showroom",
+        "produces": "['passenger car']",
+        "origin country": "Japan",
+        "has headquarters in": "Toyota",
+        "has ceo": "Kiichiro Toyoda",
+        "established on date": "1937-08-28",
+        "belongs to industry": "automotive industry"
+    },
+    "Q533415": {
+        "has title": "Best Buy",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Richfield",
+        "has ceo": "Richard M. Schulze",
+        "established on date": "1966-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q5370765": {
+        "has title": "J.Crew",
+        "is a type of": "Apparel store",
+        "origin country": "United States of America",
+        "has headquarters in": "770 Broadway",
+        "established on date": "1983-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q537886": {
+        "has title": "Banco Portugu\u00eas de Investimento",
+        "is a type of": "Bank",
+        "origin country": "Portugal",
+        "has headquarters in": "Porto",
+        "established on date": "1981-01-01",
+        "belongs to industry": "universal bank"
+    },
+    "Q538587": {
+        "has title": "Cartier",
+        "is a type of": "Accessory store",
+        "origin country": "France",
+        "has headquarters in": "Paris",
+        "has ceo": "Louis-Fran\u00e7ois Cartier",
+        "established on date": "1847-01-01",
+        "belongs to industry": "luxury good",
+        "has parent company": "Richemont"
+    },
+    "Q5399377": {
+        "has title": "Essar Oil",
+        "is a type of": "Petrol station",
+        "has headquarters in": "Mumbai",
+        "established on date": "1969-01-01",
+        "belongs to industry": "petroleum industry"
+    },
+    "Q54078": {
+        "has title": "IKEA",
+        "is a type of": "Accessory store",
+        "origin country": "Sweden",
+        "has ceo": "Ingvar Kamprad",
+        "established on date": "1943-01-01",
+        "belongs to industry": "design"
+    },
+    "Q542767": {
+        "has title": "Christian Dior S.A.",
+        "is a type of": "Accessories store",
+        "has headquarters in": "Paris",
+        "has ceo": "Christian Dior",
+        "established on date": "1946-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q5433101": {
+        "has title": "Family Dollar",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has ceo": "Leon Levine",
+        "established on date": "1959-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q5451873": {
+        "has title": "Firehouse Subs",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Jacksonville",
+        "established on date": "1994-01-01"
+    },
+    "Q5427779": {
+        "has title": "Fabindia",
+        "is a type of": "Apparel store",
+        "has headquarters in": "New Delhi",
+        "established on date": "1960-01-01"
+    },
+    "Q5465300": {
+        "has title": "Food Basics",
+        "is a type of": "Retail store",
+        "origin country": "Canada",
+        "has headquarters in": "Toronto",
+        "established on date": "1995-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "Metro Inc."
+    },
+    "Q548278": {
+        "has title": "Standard Chartered",
+        "is a type of": "Bank",
+        "origin country": "United Kingdom",
+        "has headquarters in": "London",
+        "has ceo": "James Wilson",
+        "established on date": "1853-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q5453752": {
+        "has title": "First Republic Bank",
+        "is a type of": "Bank",
+        "origin country": "United States of America",
+        "has headquarters in": "San Francisco",
+        "established on date": "1985-01-01",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q5455836": {
+        "has title": "Five Below",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Philadelphia",
+        "established on date": "2002-01-01",
+        "belongs to industry": "discount store"
+    },
+    "Q5491421": {
+        "has title": "Smoothie King",
+        "is a type of": "Restaurant",
+        "has headquarters in": "New Orleans",
+        "established on date": "1973-01-01"
+    },
+    "Q549181": {
+        "has title": "MOL Group",
+        "is a type of": "Petrol station",
+        "origin country": "Hungary",
+        "has headquarters in": "Budapest",
+        "established on date": "1991-01-01",
+        "belongs to industry": "petroleum industry"
+    },
+    "Q5490892": {
+        "has title": "Frankie and Benny's",
+        "is a type of": "Restaurant",
+        "origin country": "United Kingdom",
+        "has headquarters in": "London",
+        "established on date": "1995-01-01"
+    },
+    "Q5760704": {
+        "has title": "Hangzhou Hikvision Digital Technology Co., Ltd.",
+        "is a type of": "Electronics store",
+        "origin country": "People's Republic of China",
+        "has headquarters in": "Hangzhou",
+        "established on date": "2001-01-01"
+    },
+    "Q603698": {
+        "has title": "Longines",
+        "is a type of": "Accessory store",
+        "produces": "['wristwatch']",
+        "origin country": "Switzerland",
+        "has headquarters in": "Saint-Imier",
+        "established on date": "1832-01-01",
+        "has parent company": "The Swatch Group"
+    },
+    "Q630866": {
+        "has title": "Arby's",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Sandy Springs",
+        "established on date": "1964-01-01",
+        "belongs to industry": "gastronomy"
+    },
+    "Q550258": {
+        "has title": "Wendy's",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Dublin",
+        "has ceo": "Dave Thomas",
+        "established on date": "1969-01-01",
+        "belongs to industry": "fast food"
+    },
+    "Q5512642": {
+        "has title": "G.u.",
+        "is a type of": "Apparel store",
+        "has headquarters in": "Minato-ku",
+        "established on date": "1973-02-21",
+        "has parent company": "Fast Retailing"
+    },
+    "Q634881": {
+        "has title": "Tommy Hilfiger",
+        "is a type of": "Apparel store",
+        "produces": "['clothing', 'furniture', 'cosmetics', 'perfume']",
+        "origin country": "United States of America",
+        "has headquarters in": "New York City",
+        "has ceo": "Tommy Hilfiger",
+        "established on date": "1985-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "PVH"
+    },
+    "Q5584725": {
+        "has title": "Gordmans",
+        "is a type of": "Retail store",
+        "has headquarters in": "Omaha",
+        "established on date": "1936-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q607272": {
+        "has title": "Woolworths Limited",
+        "is a type of": "Retail store",
+        "has headquarters in": "Sydney",
+        "established on date": "1924-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q635484": {
+        "has title": "Armani",
+        "is a type of": "Apparel store",
+        "produces": "['shoe', 'cosmetics', 'jewellery', 'watch', 'designer clothing', 'eyewear']",
+        "origin country": "Italy",
+        "has headquarters in": "Milan",
+        "has ceo": "Giorgio Armani",
+        "established on date": "1975-01-01"
+    },
+    "Q5715308": {
+        "has title": "Henri Bendel",
+        "is a type of": "Accessory store",
+        "has headquarters in": "712 Fifth Avenue",
+        "has ceo": "Henri Willis Bendel",
+        "established on date": "1895-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "L Brands"
+    },
+    "Q584601": {
+        "has title": "Baskin-Robbins",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Canton",
+        "has ceo": "Irv Robbins",
+        "established on date": "1948-01-01",
+        "belongs to industry": "ice cream manufacturer",
+        "has parent company": "Dunkin' Brands"
+    },
+    "Q5887941": {
+        "has title": "HomeGoods",
+        "is a type of": "Retail store",
+        "established on date": "1992-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q59465": {
+        "has title": "Barneys New York",
+        "is a type of": "Retail store",
+        "has headquarters in": "New York City",
+        "has ceo": "Barney Pressman",
+        "established on date": "1923-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q611115": {
+        "has title": "Swarovski",
+        "is a type of": "Accessory store",
+        "origin country": "Austria",
+        "has headquarters in": "Wattens",
+        "has ceo": "Daniel Swarovski",
+        "established on date": "1895-01-01"
+    },
+    "Q6523209": {
+        "has title": "LensCrafters",
+        "is a type of": "Accessory store",
+        "origin country": "United States of America",
+        "established on date": "1983-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q589288": {
+        "has title": "The Bank of New York Mellon",
+        "is a type of": "Bank",
+        "origin country": "United States of America",
+        "has headquarters in": "New York City",
+        "has ceo": "Alexander Hamilton",
+        "established on date": "2007-01-01",
+        "belongs to industry": "banking"
+    },
+    "Q590952": {
+        "has title": "Cr\u00e9dit Agricole",
+        "is a type of": "Bank",
+        "origin country": "France",
+        "has headquarters in": "Montrouge",
+        "established on date": "2000-01-01",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q610817": {
+        "has title": "Banco do Brasil",
+        "is a type of": "Bank",
+        "origin country": "Brazil",
+        "has headquarters in": "Bras\u00edlia",
+        "has ceo": "John VI of Portugal",
+        "established on date": "1808-01-01"
+    },
+    "Q6122893": {
+        "has title": "Jaguar Land Rover",
+        "is a type of": "Auto showroom",
+        "origin country": "United Kingdom",
+        "has headquarters in": "Coventry",
+        "established on date": "2013-01-01",
+        "belongs to industry": "automotive industry",
+        "has parent company": "Tata Motor"
+    },
+    "Q656165": {
+        "has title": "Halliburton",
+        "is a type of": NaN,
+        "origin country": "United States of America",
+        "has headquarters in": "Houston",
+        "has ceo": "Erle P. Halliburton",
+        "established on date": "1919-01-01"
+    },
+    "Q608845": {
+        "has title": "Costa Coffee",
+        "is a type of": "Restaurant",
+        "produces": "['coffee']",
+        "origin country": "United Kingdom",
+        "has headquarters in": "Dunstable",
+        "established on date": "1971-01-01",
+        "belongs to industry": "gastronomy",
+        "has parent company": "Whitbread"
+    },
+    "Q6134929": {
+        "has title": "Shakey's Pizza",
+        "is a type of": "Restaurant",
+        "has headquarters in": "Alhambra",
+        "has ceo": "Sherwood Johnson",
+        "established on date": "1954-01-01",
+        "belongs to industry": "gastronomy"
+    },
+    "Q616376": {
+        "has title": "Neste",
+        "is a type of": "Petrol station",
+        "origin country": "Finland",
+        "has headquarters in": "Espoo",
+        "established on date": "1948-01-01"
+    },
+    "Q621532": {
+        "has title": "Applebee's",
+        "is a type of": "Restaurant",
+        "has headquarters in": "Kansas City",
+        "established on date": "1980-01-01",
+        "has parent company": "DineEquity"
+    },
+    "Q623133": {
+        "has title": "El Corte Ingl\u00e9s",
+        "is a type of": "Retail store",
+        "origin country": "Spain",
+        "has headquarters in": "Calle de Hermosilla",
+        "has ceo": "Ram\u00f3n Areces",
+        "established on date": "1940-06-28",
+        "belongs to industry": "retail"
+    },
+    "Q6686": {
+        "has title": "Renault",
+        "is a type of": "Auto showroom",
+        "produces": "['car', 'truck', 'light commercial vehicle']",
+        "origin country": "France",
+        "has headquarters in": "Boulogne-Billancourt",
+        "has ceo": "Louis Renault",
+        "established on date": "1898-12-24",
+        "belongs to industry": "automotive industry"
+    },
+    "Q620875": {
+        "has title": "Goodyear Tire and Rubber Company",
+        "is a type of": "Tyre store",
+        "origin country": "United States of America",
+        "has headquarters in": "Akron",
+        "has ceo": "Frank Seiberling",
+        "established on date": "1898-08-29",
+        "belongs to industry": "manufacturing"
+    },
+    "Q629269": {
+        "has title": "Macy's",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "New York City",
+        "has ceo": "Rowland Hussey Macy",
+        "established on date": "1858-10-28",
+        "belongs to industry": "retail",
+        "has parent company": "Macy's, Inc."
+    },
+    "Q6742": {
+        "has title": "Peugeot",
+        "is a type of": "Auto showroom",
+        "produces": "['car', 'light commercial vehicle']",
+        "origin country": "France",
+        "has headquarters in": "Rueil-Malmaison",
+        "has ceo": "Armand Peugeot",
+        "established on date": "1810-06-10",
+        "belongs to industry": "automotive industry",
+        "has parent company": "Groupe PSA"
+    },
+    "Q623042": {
+        "has title": "Bank Rakyat Indonesia",
+        "is a type of": "Bank",
+        "origin country": "Indonesia",
+        "has headquarters in": "Jakarta",
+        "has ceo": "Raden Bei Aria Wirjaatmadja",
+        "established on date": "1895-12-16"
+    },
+    "Q6820949": {
+        "has title": "Mervyns",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Hayward",
+        "established on date": "1949-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q62621": {
+        "has title": "Canon Inc.",
+        "is a type of": "Ele",
+        "produces": "['printer', 'software', 'camera', 'digital camera', 'photocopier', 'single-lens reflex camera', 'camcorder', 'office supply']",
+        "origin country": "Japan",
+        "has headquarters in": "Krefeld",
+        "has ceo": "Takeshi Mitarai",
+        "established on date": "1937-08-10",
+        "belongs to industry": "electronics"
+    },
+    "Q63335": {
+        "has title": "Foot Locker",
+        "is a type of": "Accessory store",
+        "has headquarters in": "New York City",
+        "established on date": "1974-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q694107": {
+        "has title": "The Swatch Group",
+        "is a type of": "Accessory store",
+        "origin country": "Switzerland",
+        "has headquarters in": "Biel/Bienne",
+        "has ceo": "Nicolas Hayek",
+        "established on date": "1931-01-01",
+        "belongs to industry": "horology"
+    },
+    "Q631047": {
+        "has title": "HDFC Bank",
+        "is a type of": "Bank",
+        "has headquarters in": "Mumbai",
+        "established on date": "1994-01-01",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q6970842": {
+        "has title": "National Automotive Parts Association",
+        "is a type of": "Auto showroom",
+        "has headquarters in": "Atlanta",
+        "established on date": "1925-01-01"
+    },
+    "Q634298": {
+        "has title": "National Bank of Canada",
+        "is a type of": "Bank",
+        "origin country": "Canada",
+        "has headquarters in": "Montreal",
+        "established on date": "1859-01-01",
+        "belongs to industry": "bank"
+    },
+    "Q6414641": {
+        "has title": "Kipling",
+        "is a type of": "Accessory store",
+        "has headquarters in": "Bornem",
+        "established on date": "1987-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q6485350": {
+        "has title": "Lane Bryant",
+        "is a type of": "Apparel store",
+        "origin country": "United States of America",
+        "has headquarters in": "Columbus",
+        "has ceo": "Lena Himmelstein",
+        "established on date": "1901-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q702049": {
+        "has title": "Husky Energy",
+        "is a type of": "Petrol station",
+        "origin country": "Canada",
+        "has headquarters in": "Calgary",
+        "established on date": "1938-01-01",
+        "belongs to industry": "petroleum industry"
+    },
+    "Q643626": {
+        "has title": "Aptiv",
+        "is a type of": "Auto showroom",
+        "origin country": "United Kingdom",
+        "has headquarters in": "Dublin",
+        "established on date": "2009-10-06",
+        "belongs to industry": "automotive industry"
+    },
+    "Q705417": {
+        "has title": "DBS Bank",
+        "is a type of": "Bank",
+        "origin country": "Singapore",
+        "has headquarters in": "Singapore",
+        "established on date": "1968-01-01",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q6499202": {
+        "has title": "Sears",
+        "is a type of": "Accessory store",
+        "produces": "['clothing']",
+        "origin country": "United States of America",
+        "has headquarters in": "Hoffman Estates",
+        "has ceo": "Richard Warren Sears",
+        "established on date": "1886-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "Sears Holdings Corporation"
+    },
+    "Q659530": {
+        "has title": "Tissot",
+        "is a type of": "Accessory store",
+        "origin country": "Switzerland",
+        "has headquarters in": "Le Locle",
+        "established on date": "1853-01-01",
+        "belongs to industry": "horology",
+        "has parent company": "The Swatch Group"
+    },
+    "Q715583": {
+        "has title": "Costco",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Issaquah",
+        "has ceo": "James Sinegal",
+        "established on date": "1983-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q659224": {
+        "has title": "Omega SA",
+        "is a type of": "Accessory store",
+        "origin country": "Switzerland",
+        "has headquarters in": "Biel/Bienne",
+        "established on date": "1848-01-01",
+        "belongs to industry": "clock",
+        "has parent company": "The Swatch Group"
+    },
+    "Q7311028": {
+        "has title": "Reliance Retail",
+        "is a type of": "Retail store",
+        "has headquarters in": "Mumbai",
+        "belongs to industry": "retail"
+    },
+    "Q66048": {
+        "has title": "Deutsche Bank",
+        "is a type of": "Bank",
+        "origin country": "Germany",
+        "has headquarters in": "Deutsche Bank Twin Towers",
+        "has ceo": "Ludwig Bamberger",
+        "established on date": "1870-03-10",
+        "belongs to industry": "financial services"
+    },
+    "Q7368644": {
+        "has title": "Roses",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Henderson",
+        "established on date": "1915-01-01"
+    },
+    "Q673670": {
+        "has title": "PGNiG",
+        "is a type of": "Petrol station",
+        "has headquarters in": "Warsaw",
+        "established on date": "1982-12-01"
+    },
+    "Q6824418": {
+        "has title": "MetroCorp Bancshares",
+        "is a type of": "Bank",
+        "origin country": "United States of America",
+        "has headquarters in": "Texas",
+        "established on date": "1987-01-01"
+    },
+    "Q688082": {
+        "has title": "Bata Shoes",
+        "is a type of": "Apparel store",
+        "produces": "['shoes']",
+        "has headquarters in": "Lausanne",
+        "has ceo": "Tom\u00e1\u0161 Ba\u0165a",
+        "established on date": "1894-08-24",
+        "belongs to industry": "retail"
+    },
+    "Q691029": {
+        "has title": "Pull&Bear",
+        "is a type of": "Apparel store",
+        "origin country": "Spain",
+        "has headquarters in": "Arteixo",
+        "established on date": "1991-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "Inditex"
+    },
+    "Q739084": {
+        "has title": "U.S. Bancorp",
+        "is a type of": "Bank",
+        "has headquarters in": "Minneapolis",
+        "established on date": "1850-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q688619": {
+        "has title": "Olympus",
+        "is a type of": "Electronics store",
+        "produces": "['software']",
+        "origin country": "Japan",
+        "has headquarters in": "Shinjuku-ku",
+        "established on date": "1919-10-12",
+        "belongs to industry": "electronics"
+    },
+    "Q696376": {
+        "has title": "Gianni Versace S.p.A.",
+        "is a type of": "Apparel store",
+        "produces": "['designer clothing']",
+        "origin country": "Italy",
+        "has headquarters in": "Milan",
+        "has ceo": "Gianni Versace",
+        "established on date": "1978-01-01"
+    },
+    "Q744149": {
+        "has title": "Wells Fargo",
+        "is a type of": "Bank",
+        "origin country": "United States of America",
+        "has headquarters in": "San Francisco",
+        "has ceo": "William Fargo",
+        "established on date": "1852-03-18",
+        "belongs to industry": "financial services"
+    },
+    "Q696334": {
+        "has title": "Toys \"R\" Us",
+        "is a type of": "Retail store",
+        "has headquarters in": "New Jersey",
+        "has ceo": "Charles Lazarus",
+        "established on date": "1948-01-01",
+        "belongs to industry": "trade",
+        "has parent company": "Kohlberg Kravis Roberts"
+    },
+    "Q747394": {
+        "has title": "Alpha Bank",
+        "is a type of": "Bank",
+        "origin country": "Greece",
+        "has headquarters in": "Athens",
+        "established on date": "1879-01-01",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q696867": {
+        "has title": "Erste Bank",
+        "is a type of": "Bank",
+        "origin country": "Austria",
+        "has headquarters in": "Vienna",
+        "established on date": "1829-01-01",
+        "has parent company": "Erste Group"
+    },
+    "Q7501155": {
+        "has title": "Shopko",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Green Bay",
+        "established on date": "1962-04-05"
+    },
+    "Q6970885": {
+        "has title": "National Bank of Abu Dhabi",
+        "is a type of": "Bank",
+        "established on date": "1968-01-01",
+        "belongs to industry": "bank"
+    },
+    "Q7071951": {
+        "has title": "O'Reilly Auto Parts",
+        "is a type of": "Auto showroom",
+        "origin country": "United States of America",
+        "has headquarters in": "Springfield",
+        "established on date": "1957-01-01"
+    },
+    "Q707602": {
+        "has title": "B&Q",
+        "is a type of": "Retail store",
+        "origin country": "United Kingdom",
+        "has headquarters in": "Eastleigh",
+        "has ceo": "David Quayle",
+        "established on date": "1969-01-01",
+        "belongs to industry": "hardware store",
+        "has parent company": "Kingfisher plc"
+    },
+    "Q7076076": {
+        "has title": "Ocean State Job Lot",
+        "is a type of": "Retail store",
+        "has headquarters in": "North Kingstown",
+        "established on date": "1977-01-01"
+    },
+    "Q7079486": {
+        "has title": "Officeworks",
+        "is a type of": "Retail store",
+        "origin country": "Australia",
+        "has headquarters in": "Bentleigh East",
+        "established on date": "1994-06-01",
+        "has parent company": "Wesfarmers"
+    },
+    "Q7088304": {
+        "has title": "Ollie's Bargain Outlet",
+        "is a type of": "Retail store",
+        "has headquarters in": "Harrisburg",
+        "established on date": "1982-01-01",
+        "belongs to industry": "overstock"
+    },
+    "Q714641": {
+        "has title": "Australia and New Zealand Banking Group",
+        "is a type of": "Bank",
+        "origin country": "Australia",
+        "has headquarters in": "Melbourne",
+        "established on date": "1970-01-01"
+    },
+    "Q7575959": {
+        "has title": "Spencer's Retail",
+        "is a type of": "Retail store",
+        "has headquarters in": "Kolkata",
+        "established on date": "1996-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q714491": {
+        "has title": "Marks & Spencer",
+        "is a type of": "Retail store",
+        "origin country": "United Kingdom",
+        "has headquarters in": "London",
+        "has ceo": "Michael Marks",
+        "established on date": "1884-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q7160131": {
+        "has title": "Peebles",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "established on date": "1891-01-01"
+    },
+    "Q727697": {
+        "has title": "Coach",
+        "is a type of": "Accessory store",
+        "produces": "['clothing']",
+        "origin country": "United States of America",
+        "has headquarters in": "New York City",
+        "established on date": "1941-01-01"
+    },
+    "Q7756009": {
+        "has title": "The Pantry",
+        "is a type of": "Retail Store",
+        "origin country": "United States of America",
+        "has headquarters in": "Cary",
+        "established on date": "1967-01-01",
+        "belongs to industry": "convenience store"
+    },
+    "Q717531": {
+        "has title": "Chunghwa Telecom",
+        "is a type of": "Telecom store",
+        "origin country": "Taiwan",
+        "has headquarters in": "Taipei",
+        "established on date": "1996-01-01",
+        "belongs to industry": "telecommunications industry"
+    },
+    "Q721162": {
+        "has title": "Telstra",
+        "is a type of": "Telecom store",
+        "origin country": "Australia",
+        "has headquarters in": "Melbourne",
+        "established on date": "1975-06-12",
+        "belongs to industry": "telecommunications industry"
+    },
+    "Q794565": {
+        "has title": "A\u00e9ropostale",
+        "is a type of": "Apparel store",
+        "produces": "['clothing']",
+        "origin country": "United States of America",
+        "has headquarters in": "New York City",
+        "established on date": "1973-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q7283806": {
+        "has title": "Raiffeisen Romania",
+        "is a type of": "Bank",
+        "origin country": "Romania",
+        "has headquarters in": "Bucharest",
+        "established on date": "2002-01-01"
+    },
+    "Q7311026": {
+        "has title": "Reliance Petroleum",
+        "is a type of": "Petrol station",
+        "has headquarters in": "Ahmedabad",
+        "established on date": "2008-01-01",
+        "belongs to industry": "petroleum industry"
+    },
+    "Q798819": {
+        "has title": "Huntington Bancshares",
+        "is a type of": "Bank",
+        "origin country": "United States of America",
+        "has headquarters in": "Columbus",
+        "established on date": "1866-01-01"
+    },
+    "Q735261": {
+        "has title": "Royal Bank of Canada",
+        "is a type of": "Bank",
+        "origin country": "Canada",
+        "has headquarters in": "Toronto",
+        "established on date": "1864-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q743497": {
+        "has title": "Neiman Marcus",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Dallas",
+        "has ceo": "Carrie Marcus Neiman",
+        "established on date": "1907-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q806689": {
+        "has title": "Bank of Ireland",
+        "is a type of": "Bank",
+        "origin country": "Ireland",
+        "has headquarters in": "Dublin",
+        "established on date": "1783-01-01",
+        "belongs to industry": "bank"
+    },
+    "Q7391493": {
+        "has title": "SM Department Store",
+        "is a type of": "Retail store",
+        "has headquarters in": "Pasay",
+        "established on date": "1958-01-01"
+    },
+    "Q806693": {
+        "has title": "Bank of Montreal",
+        "is a type of": "Bank",
+        "origin country": "Canada",
+        "has headquarters in": "Montreal",
+        "established on date": "1817-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q7439115": {
+        "has title": "Screwfix",
+        "is a type of": "Retail store",
+        "has headquarters in": "Yeovil",
+        "established on date": "1979-01-01"
+    },
+    "Q847225": {
+        "has title": "Caixabank",
+        "is a type of": "Bank",
+        "origin country": "Spain",
+        "has headquarters in": "Valencia",
+        "established on date": "2011-01-01",
+        "has parent company": "La Caixa"
+    },
+    "Q7441933": {
+        "has title": "Seasons 52",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Orlando",
+        "established on date": "2003-01-01",
+        "belongs to industry": "gastronomy"
+    },
+    "Q745099": {
+        "has title": "Kyocera",
+        "is a type of": "Electronics store",
+        "produces": "['software']",
+        "origin country": "Japan",
+        "has headquarters in": "Fushimi-ku",
+        "has ceo": "Kazuo Inamori",
+        "established on date": "1959-04-01",
+        "belongs to industry": "electronics"
+    },
+    "Q7575683": {
+        "has title": "Speedway LLC",
+        "is a type of": "Petrol station",
+        "origin country": "United States of America",
+        "has headquarters in": "Enon",
+        "established on date": "1959-01-01"
+    },
+    "Q864407": {
+        "has title": "The Home Depot",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Atlanta",
+        "has ceo": "Arthur Blank",
+        "established on date": "1978-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q752941": {
+        "has title": "Taco Bell",
+        "is a type of": "Restaurant",
+        "produces": "['taco']",
+        "origin country": "United States of America",
+        "has headquarters in": "Irvine",
+        "has ceo": "Glen Bell",
+        "established on date": "1962-01-01",
+        "belongs to industry": "fast food",
+        "has parent company": "Yum! Brands"
+    },
+    "Q7561808": {
+        "has title": "Sonic Drive-In",
+        "is a type of": "Restaurant",
+        "has headquarters in": "Oklahoma City",
+        "has ceo": "Troy Smith",
+        "established on date": "1953-01-01",
+        "belongs to industry": "gastronomy"
+    },
+    "Q758052": {
+        "has title": "Attijariwafa Bank",
+        "is a type of": "Bank",
+        "origin country": "Morocco",
+        "has headquarters in": "Casablanca",
+        "established on date": "1911-01-01"
+    },
+    "Q775060": {
+        "has title": "Texaco",
+        "is a type of": "Petrol station",
+        "produces": "['petroleum', 'natural gas', 'petroleum product']",
+        "origin country": "United States of America",
+        "has headquarters in": "San Ramon",
+        "has ceo": "Arnold Schlaet",
+        "established on date": "1901-01-01",
+        "belongs to industry": "petroleum industry",
+        "has parent company": "Chevron Corporation"
+    },
+    "Q909856": {
+        "has title": "Loblaw Companies",
+        "is a type of": "Retail store",
+        "origin country": "Canada",
+        "has headquarters in": "Brampton",
+        "has ceo": "Theodore Loblaw",
+        "established on date": "1956-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "George Weston Limited"
+    },
+    "Q7606770": {
+        "has title": "Stein Mart",
+        "is a type of": "Retail store",
+        "established on date": "1902-01-01"
+    },
+    "Q762330": {
+        "has title": "Banc Sabadell",
+        "is a type of": "Bank",
+        "origin country": "Spain",
+        "has headquarters in": "Alicante",
+        "established on date": "1881-12-31",
+        "belongs to industry": "financial services"
+    },
+    "Q7757289": {
+        "has title": "The Pita Pit",
+        "is a type of": "Restaurant",
+        "has headquarters in": "Kingston",
+        "established on date": "1995-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q7851426": {
+        "has title": "Tuesday Morning",
+        "is a type of": "Retail store",
+        "has headquarters in": "Dallas",
+        "established on date": "1974-01-01"
+    },
+    "Q785943": {
+        "has title": "Staples Inc.",
+        "is a type of": "Accessory store",
+        "produces": "['electronics', 'furniture', 'information technology consulting', 'office supply']",
+        "origin country": "United States of America",
+        "has headquarters in": "Boston",
+        "has ceo": "Leo Kahn",
+        "established on date": "1986-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q7941483": {
+        "has title": "Von Maur",
+        "is a type of": "Retail store",
+        "has headquarters in": "Davenport",
+        "established on date": "1872-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q920037": {
+        "has title": "J. C. Penney",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Plano",
+        "has ceo": "William McManus",
+        "established on date": "1902-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q788231": {
+        "has title": "Massimo Dutti",
+        "is a type of": "Apparel store",
+        "origin country": "Spain",
+        "has headquarters in": "Tordera",
+        "established on date": "1985-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "Inditex"
+    },
+    "Q795486": {
+        "has title": "BB&T",
+        "is a type of": "Bank",
+        "origin country": "United States of America",
+        "has headquarters in": "Winston-Salem",
+        "established on date": "1872-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q967265": {
+        "has title": "Kohl's",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Menomonee Falls",
+        "established on date": "1962-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q795454": {
+        "has title": "Barnes & Noble",
+        "is a type of": "Retail store",
+        "produces": "['software']",
+        "origin country": "United States of America",
+        "has headquarters in": "New York City",
+        "has ceo": "Leonard Riggio",
+        "established on date": "1873-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q8025339": {
+        "has title": "Wingstop",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Dallas",
+        "established on date": "1994-01-01",
+        "belongs to industry": "restaurant"
+    },
+    "Q806085": {
+        "has title": "Banana Republic",
+        "is a type of": "Apparel store",
+        "produces": "['clothing', 'jewellery']",
+        "origin country": "United States of America",
+        "has headquarters in": "San Francisco",
+        "has ceo": "Mel Ziegler",
+        "established on date": "1978-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "Gap, Inc."
+    },
+    "Q806181": {
+        "has title": "Bradesco Bank",
+        "is a type of": "Bank",
+        "origin country": "Brazil",
+        "has headquarters in": "Osasco",
+        "established on date": "1943-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q806189": {
+        "has title": "Bilbao Vizcaya Argentaria Bank",
+        "is a type of": "Bank",
+        "origin country": "Spain",
+        "has headquarters in": "Ciudad BBVA",
+        "established on date": "1999-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q806215": {
+        "has title": "Banco Santander",
+        "is a type of": "Bank",
+        "origin country": "Spain",
+        "has headquarters in": "Santander",
+        "established on date": "1857-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q806483": {
+        "has title": "Bangkok Bank",
+        "is a type of": "Bank",
+        "origin country": "Thailand",
+        "has headquarters in": "Bangkok",
+        "has ceo": "Chin Sophonpanich",
+        "established on date": "1944-11-20"
+    },
+    "Q806607": {
+        "has title": "BankMuscat",
+        "is a type of": "Bank",
+        "has headquarters in": "Muscat",
+        "established on date": "1982-01-01"
+    },
+    "Q806641": {
+        "has title": "Bank Leumi",
+        "is a type of": "Bank",
+        "origin country": "Israel",
+        "has headquarters in": "Tel Aviv",
+        "has ceo": "World Zionist Organization",
+        "established on date": "1902-01-01",
+        "belongs to industry": "Finanzwesen"
+    },
+    "Q806622": {
+        "has title": "Bank CIC (Switzerland) Ltd.",
+        "is a type of": "Bank",
+        "origin country": "Switzerland",
+        "has headquarters in": "Basel",
+        "established on date": "1909-01-01"
+    },
+    "Q806626": {
+        "has title": "Bank Central Asia",
+        "is a type of": "Bank",
+        "has headquarters in": "Jakarta",
+        "has ceo": "Sudono Salim",
+        "established on date": "1955-01-01",
+        "belongs to industry": "bank"
+    },
+    "Q806639": {
+        "has title": "Bank Mandiri",
+        "is a type of": "Bank",
+        "origin country": "Indonesia",
+        "has headquarters in": "Jakarta",
+        "has ceo": "Government of Indonesia",
+        "established on date": "1998-10-02",
+        "belongs to industry": "financial services"
+    },
+    "Q806679": {
+        "has title": "Bank of East Asia",
+        "is a type of": "Bank",
+        "origin country": "People's Republic of China",
+        "has headquarters in": "Central",
+        "established on date": "1918-01-01"
+    },
+    "Q806807": {
+        "has title": "Bankia",
+        "is a type of": "Bank",
+        "origin country": "Spain",
+        "has headquarters in": "Madrid",
+        "established on date": "2010-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q806808": {
+        "has title": "Bankinter",
+        "is a type of": "Bank",
+        "origin country": "Spain",
+        "has headquarters in": "Madrid",
+        "established on date": "1965-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q8093": {
+        "has title": "Nintendo",
+        "is a type of": "Electronics store",
+        "origin country": "Japan",
+        "has headquarters in": "Kyoto",
+        "has ceo": "Fusajiro Yamauchi",
+        "established on date": "1889-09-23",
+        "belongs to industry": "video game industry"
+    },
+    "Q810773": {
+        "has title": "Bath & Body Works",
+        "is a type of": "Accessory store",
+        "origin country": "United States of America",
+        "has headquarters in": "Columbus",
+        "has ceo": "Les Wexner",
+        "established on date": "1990-01-01",
+        "belongs to industry": "final good"
+    },
+    "Q8072576": {
+        "has title": "Zions Bank",
+        "is a type of": "Bank",
+        "origin country": "United States of America",
+        "has headquarters in": "Salt Lake City",
+        "has ceo": "Brigham Young"
+    },
+    "Q80788": {
+        "has title": "DNB ASA",
+        "is a type of": "Bank",
+        "has headquarters in": "Oslo",
+        "established on date": "2003-12-04"
+    },
+    "Q813782": {
+        "has title": "Bed Bath & Beyond",
+        "is a type of": "Accessory store",
+        "origin country": "United States of America",
+        "has headquarters in": "Union Township",
+        "established on date": "1971-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q815694": {
+        "has title": "Bell Canada",
+        "is a type of": "Telecom store",
+        "origin country": "Canada",
+        "has headquarters in": "Montreal",
+        "has ceo": "Charles Fleetford Sise",
+        "established on date": "1877-01-01",
+        "belongs to industry": "telecommunications industry"
+    },
+    "Q827258": {
+        "has title": "Bershka",
+        "is a type of": "Apparel store",
+        "origin country": "Spain",
+        "has headquarters in": "Arteixo",
+        "established on date": "1998-04-01",
+        "belongs to industry": "retail",
+        "has parent company": "Inditex"
+    },
+    "Q837851": {
+        "has title": "The Body Shop",
+        "is a type of": "Accessory store",
+        "has headquarters in": "Littlehampton",
+        "has ceo": "Anita Roddick",
+        "established on date": "1976-03-26",
+        "belongs to industry": "retail",
+        "has parent company": "Natura Cosm\u00e9ticos S.A."
+    },
+    "Q839466": {
+        "has title": "Domino's Pizza",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Ann Arbor Charter Township",
+        "has ceo": "Tom Monaghan",
+        "established on date": "1960-06-10",
+        "belongs to industry": "fast food",
+        "has parent company": "Bain Capital"
+    },
+    "Q843887": {
+        "has title": "Herm\u00e8s International S.A.",
+        "is a type of": "Accessory store",
+        "has headquarters in": "Paris",
+        "has ceo": "Thierry Herm\u00e8s",
+        "established on date": "1837-01-01"
+    },
+    "Q845632": {
+        "has title": "Telenor",
+        "is a type of": "Telecom store",
+        "origin country": "Norway",
+        "has headquarters in": "B\u00e6rum",
+        "established on date": "1995-01-01",
+        "belongs to industry": "telecommunications industry"
+    },
+    "Q844805": {
+        "has title": "Dillard's",
+        "is a type of": "Retail store",
+        "origin country": "United States of America",
+        "has headquarters in": "Little Rock",
+        "has ceo": "William T. Dillard",
+        "established on date": "1938-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q847743": {
+        "has title": "Dunkin'",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "has headquarters in": "Canton",
+        "has ceo": "William Rosenberg",
+        "established on date": "1950-01-01",
+        "belongs to industry": "gastronomy",
+        "has parent company": "Dunkin' Brands"
+    },
+    "Q848059": {
+        "has title": "Mahindra & Mahindra",
+        "is a type of": "Auto showroom",
+        "origin country": "India",
+        "has headquarters in": "Mumbai",
+        "has ceo": "Jagdish Chandra Mahindra",
+        "established on date": "1945-10-02",
+        "belongs to industry": "automotive industry",
+        "has parent company": "Mahindra Group"
+    },
+    "Q853958": {
+        "has title": "NTT DoCoMo",
+        "is a type of": "Telecom store",
+        "origin country": "Japan",
+        "has headquarters in": "Sanno Park Tower",
+        "established on date": "1992-01-01",
+        "belongs to industry": "telecommunications industry",
+        "has parent company": "Nippon Telegraph and Telephone"
+    },
+    "Q857182": {
+        "has title": "Biedronka",
+        "is a type of": "Retail store",
+        "origin country": "Poland",
+        "has headquarters in": "Kostrzyn",
+        "established on date": "1997-01-01",
+        "belongs to industry": "retail",
+        "has parent company": "Jer\u00f3nimo Martins"
+    },
+    "Q854867": {
+        "has title": "Bharti Airtel",
+        "is a type of": "Telecom store",
+        "origin country": "India",
+        "has headquarters in": "New Delhi",
+        "has ceo": "Sunil Mittal",
+        "established on date": "1995-07-07",
+        "belongs to industry": "telecommunications industry"
+    },
+    "Q855479": {
+        "has title": "TDK",
+        "is a type of": "Electronics store",
+        "origin country": "Japan",
+        "has headquarters in": "Minato-ku",
+        "established on date": "1935-12-07",
+        "belongs to industry": "electronics"
+    },
+    "Q884711": {
+        "has title": "Blockbuster LLC",
+        "is a type of": "Retail store",
+        "produces": "['software']",
+        "origin country": "United States of America",
+        "has headquarters in": "Dallas",
+        "established on date": "1985-01-01",
+        "has parent company": "Dish Network"
+    },
+    "Q907311": {
+        "has title": "Netflix",
+        "is a type of": NaN,
+        "produces": "['streaming media', 'Netflix recommender system']",
+        "origin country": "United States of America",
+        "has headquarters in": "Los Gatos",
+        "has ceo": "Reed Hastings",
+        "established on date": "1997-01-01",
+        "belongs to industry": "streaming media"
+    },
+    "Q894874": {
+        "has title": "Bottega Veneta",
+        "is a type of": "Apparel store",
+        "origin country": "Italy",
+        "has headquarters in": "Vicenza",
+        "established on date": "1966-01-01",
+        "has parent company": "Kering"
+    },
+    "Q912778": {
+        "has title": "OTP Bank",
+        "is a type of": "Bank",
+        "has headquarters in": "Budapest",
+        "established on date": "1949-01-01"
+    },
+    "Q919935": {
+        "has title": "Ooredoo",
+        "is a type of": "Telecom store",
+        "has headquarters in": "Doha",
+        "established on date": "1987-01-01",
+        "belongs to industry": "telecommunications industry"
+    },
+    "Q917131": {
+        "has title": "Regions Financial Corporation",
+        "is a type of": "Bank",
+        "origin country": "United States of America",
+        "has headquarters in": "Birmingham",
+        "established on date": "1971-07-13"
+    },
+    "Q918151": {
+        "has title": "Hard Rock Cafe",
+        "is a type of": "Restaurant",
+        "has headquarters in": "Orlando",
+        "has ceo": "Isaac Tigrett",
+        "established on date": "1971-06-14"
+    },
+    "Q966971": {
+        "has title": "Castorama",
+        "is a type of": "Retail store",
+        "origin country": "France",
+        "has headquarters in": "Templemars",
+        "established on date": "1969-06-13",
+        "belongs to industry": "retail",
+        "has parent company": "Kingfisher plc"
+    },
+    "Q922344": {
+        "has title": "Morrisons",
+        "is a type of": "Retail store",
+        "origin country": "United Kingdom",
+        "has headquarters in": "Bradford",
+        "has ceo": "William Morrison",
+        "established on date": "1899-01-01",
+        "belongs to industry": "retail"
+    },
+    "Q963718": {
+        "has title": "Maruti Suzuki",
+        "is a type of": "Auto showroom",
+        "origin country": "India",
+        "has headquarters in": "New Delhi",
+        "has ceo": "Sanjay Gandhi",
+        "established on date": "1981-01-01",
+        "belongs to industry": "automotive industry",
+        "has parent company": "Suzuki"
+    },
+    "Q970695": {
+        "has title": "Northern Trust",
+        "is a type of": "Bank",
+        "has headquarters in": "Chicago",
+        "established on date": "1889-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q971649": {
+        "has title": "PKN Orlen",
+        "is a type of": "Petrol station",
+        "origin country": "Poland",
+        "has headquarters in": "P\u0142ock",
+        "established on date": "1999-01-01",
+        "belongs to industry": "petroleum industry"
+    },
+    "Q975655": {
+        "has title": "SEB Group",
+        "is a type of": "Bank",
+        "origin country": "Sweden",
+        "has headquarters in": "Stockholm",
+        "established on date": "1972-01-01",
+        "belongs to industry": "financial services"
+    },
+    "Q1032400": {
+        "has title": "Canadian Tire",
+        "is a type of": "Retail store",
+        "has headquarters in": "Toronto",
+        "has ceo": "Alfred J. Billes",
+        "established on date": "1922-09-15",
+        "belongs to industry": "finance"
+    },
+    "Q5496837": {
+        "has title": "Freddy's Frozen Custard",
+        "is a type of": "Restaurant",
+        "origin country": "United States of America",
+        "established on date": "2002-01-01"
+    },
+    "Q5563120": {
+        "has title": "Gini & Jony",
+        "is a type of": "Apparel store",
+        "has headquarters in": "Mumbai",
+        "established on date": "1980-01-01"
+    },
+    "Q55931": {
+        "has title": "Hyundai Motor Company",
+        "is a type of": "Auto showroom",
+        "produces": "['car', 'truck']",
+        "origin country": "South Korea",
+        "has headquarters in": "Seoul",
+        "has ceo": "Chung Ju-yung",
+        "established on date": "1967-01-01",
+        "belongs to industry": "automotive industry",
+        "has parent company": "Hyundai"
+    },
+    "Q565734": {
+        "has title": "Aral AG",
+        "is a type of": "Petrol station",
+        "origin country": "Germany",
+        "has headquarters in": "Bochum",
+        "established on date": "1898-01-01"
+    },
+    "Q571997": {
+        "has title": "Shinsei Bank",
+        "is a type of": "Bank",
+        "origin country": "Japan",
+        "has headquarters in": "Chiyoda-ku",
+        "established on date": "1952-01-01"
+    },
+    "Q578832": {
+        "has title": "Powszechna Kasa Oszcz\u0119dno\u015bci Bank Polski",
+        "is a type of": "Bank",
+        "origin country": "Poland",
+        "has headquarters in": "Warsaw",
+        "established on date": "1948-01-01"
+    },
+    "Q62288": {
+        "has title": "Rolex",
+        "is a type of": "Accessory store",
+        "origin country": "Switzerland",
+        "has headquarters in": "Geneva",
+        "has ceo": "Hans Wilsdorf",
+        "established on date": "1905-01-01",
+        "belongs to industry": "horology"
+    },
+    "Q1814247": {
+        "has title": "Sumitomo Electric Industries",
+        "is a type of": NaN,
+        "origin country": "Japan",
+        "has headquarters in": "?saka",
+        "established on date": "1897",
+        "belongs to industry": "non-ferrous metal"
+    }
+}
